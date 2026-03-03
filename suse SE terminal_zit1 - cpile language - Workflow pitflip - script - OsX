@@ -2,16 +2,23 @@
 ###  zit1   c.pile language   ###
 #  suselinux Se terminal - lossless workflow #
 #      ## Tabellenkalkulilation/Automatisation  ##
-.   .  . . #  ## 
+##.   .  . . #  ## 
+## Dependencies ##
+###  -  OsX
+###   -  Texteditor
 ##
 #
-name: Zit1
+##  prerequisietes ##
+###  -  open texteditor, type start, 2xbreak, (script.txt), script
+#
+#
+###  script   #######
 ##
-##
-on: zit1  ipconfig -U -(localhost)  -(telefonica)
+#
+on: ipconfig -U -(localhost)  -(telefonica)
   #
   ##
-  push: zit1 localhost
+  push: localhost
   ###
   pull_request: pit4rom nandflash
     branches: [ "main" ]
@@ -25,14 +32,14 @@ jobs: pit4rom //root/kernel/
   build: zit1 localIp{localhost}
     #########
     runs-on: xxxdistro
-
+####
     ####
     steps: rom
       ###########
       ##№#
       #
-
-
+#
+#
       #### Befehle ###
       -  zit1  {Grundbefehl/Kernelebene}
       -  pit4  {nandflash}

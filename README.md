@@ -1,3 +1,5 @@
+#
+.
 ###### suse linux Se 1.2 terminal  #### NAND flash
 ## Ai
 
@@ -22,11 +24,11 @@ Developer full AI Test:
 -
 -
 -
+.
+#############  ..
+##1.4147##
+#
 
-#############
-1.4147
-
-
-
-###Kobata##
+. .  .
+###Kobata## .
 

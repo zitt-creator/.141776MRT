@@ -1,19 +1,26 @@
+#  mainflash rom - suselinux Se terminal-ls
+##. ..  k.alipe
+#
+.
+#
 ##
 livekernelflash   {.. }
 √π×3,19×2÷1   { 4 4 1 0 4 }
-.
+#.
 ###suselinuxse terminal nandflash Osx###
-
+.
 ##
-
+.
 ###Os-x Oem###
 sudoexe  rom sodoexe4 pit4 rom -fdisk -U -ls zit1 nandflash
-
+#
 .
-
+#
 ###susese linux terminal Grundbefehl###
-
+#
 zit1   rom -U nandflash  {..  }
+##
+###
 
 
 
@@ -23,8 +30,7 @@ zit1   rom -U nandflash  {..  }
 
 
 
-
-
-
-
+#
+..
 ##7741###[5.14]
+.

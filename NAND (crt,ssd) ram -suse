@@ -1,0 +1,25 @@
+###  ZIT Terminalcode SuseLinux Se 1.2
+##
+#
+
+##  Dependencies  ##
+.xOs
+.Internet connection
+
+##  code  ##
+sudoexe exe -fdisk rom -4exe
+.
+zit1  ..
+#
+
+Beispiele
+#
+zit1 rom nandflash {ipuflash}
+#
+..
+
+
+.
+###7741###
+# 1.341 #
+#

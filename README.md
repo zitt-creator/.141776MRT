@@ -1,9 +1,9 @@
 # .141776MRT
 Medizintechnik
 
-#  Gamintests  #
+#  Gamingtests  #
 666.6.6.6
-
+#
 - Mitsubishi Kotatai
 #####№#№##########
 -

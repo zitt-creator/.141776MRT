@@ -1,9 +1,9 @@
 #
-.
+.####
 ###### suse linux Se 1.2 terminal  #### NAND flash
 ## Ai
 
-# .141776MRT
+# .141776MRT##1.141k.alipe
 Medizintechnik
 
 #  Gamingtests  #

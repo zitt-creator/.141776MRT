@@ -1,1 +1,0 @@
-k.alipe c.pile -fdisk rom ut.exe  fdisk -V nandflash ut.exe

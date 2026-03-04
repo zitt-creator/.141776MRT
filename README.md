@@ -4,7 +4,7 @@
 #::   ZIT1 -cpile -print  ::-------------------
 ## ..  -A{pit4; sudoexe; nandflash}
 #. . .  #{pit4romexe-ls} [36]#
-.####------------
+.####------------ . .
 ###### suse linux Se 1.2 terminal #.
 #  - lossless live KERNEL
 #### NAND flash #.

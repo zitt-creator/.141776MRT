@@ -1,4 +1,4 @@
-#
+# readme
 #.:::?#
 #::   ZIT1 -c  ::-------------------
 ## ..  -A{pit4; sudoexe; nandflash}

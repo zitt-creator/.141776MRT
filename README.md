@@ -3,7 +3,7 @@
 #:::::. readme.
 #.:::?#
 #::   ZIT1 -cpile -print  ::----------
--c {clanguage}::
+#;; -c {clanguage}::
 ;   -------
 ## ..  -A{pit4; sudoexe; nandflash}
 #. . . ##{pit4romexe-ls}#[36]#   .

@@ -25,7 +25,7 @@ print
 #.;  ####-- . .        #
 #;; -c {clanguage}::
 ;   -------##
-#### ..  -A{pit4; sudoexe; nandflash}
+#### .. zit1 -A{pit4; sudoexe; nandflash}
 #. . . ##{pit4romexe-ls}#[36]#   .
 .####------------ . .
 ###### suse linux Se 1.2 terminal #.

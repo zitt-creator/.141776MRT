@@ -1,0 +1,26 @@
+suselinuxse terminal 1.2 - c.pile
+::
+#####
+##
+###
+#
+
+
+####   SDK compile suselinux terminal 1.2 -ls  ####
+#####
+pp                      c.pile rom fdisk nandrom
+ppkernel                //root/kernel/home/              user/  ..nandrom
+                      /sys
+#####
+//sys  {ppkernel}    nandrom localiso.iso//root/kernel/sys/user/home/  . .
+#####
+print rom nandrom localiso.iso
+#####
+#
+#
+#
+#
+####  compile C++, OsX, nandrom  ####
+
+..
+print

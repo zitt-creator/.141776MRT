@@ -1,5 +1,5 @@
 #####
-
+SUSE LINUX SE-ls
 print
 ####    suse linux - firmware upgrade/live-ls
 ::

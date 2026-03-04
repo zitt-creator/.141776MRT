@@ -3,7 +3,7 @@
 #; :
 #;:::::. readme.
 #.:::?#
-#::   ZIT1 -cpile -print  ::----------
+#::   ZIT1 -cpile -print  ::[34]::##9876## -print -f
 #
 #.;  ####-- . .        #
 #;; -c {clanguage}::

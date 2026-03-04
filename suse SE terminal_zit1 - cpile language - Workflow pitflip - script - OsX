@@ -1,4 +1,11 @@
+print
+####   C++ compile - ZIT-ls
+::
+#####
+##
 #
+##
+#####
 ###. ..[36]
 #  suselinux Se terminal ,, cpile -ls .. ###
 #
@@ -56,11 +63,7 @@ jobs: pit4rom //root/kernel/
 #
 #
 #
-#
-#
-#
-#
-#
 # .
 #  .   ###7741###
 ##
+::

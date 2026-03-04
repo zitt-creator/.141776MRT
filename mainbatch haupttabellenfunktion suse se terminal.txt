@@ -1,6 +1,10 @@
 print
 #?    suse linux terminal 1.2 Se superuser  ?#:
 ##;mainbatch suse terminal mainbatch;
+##
+#
+#####
+#?    Zit1 clanguage  +    ?#
 ::
 #####
 ##   Haupttabellenfunktion / OsX {x86/Ip}

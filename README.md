@@ -24,8 +24,10 @@
 ## Resonanztechnik #.
 #  - Erf. Nr.: 1.341 It
 #  - Lapedusa.de :: 0.941
-#####. .   .      #
-#.
+#####
+#
+[#####. .   .      #
+#.]
 #
 # .141776MRT##1.141k.alipe  #
 Medizintechnik#.

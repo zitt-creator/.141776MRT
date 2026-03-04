@@ -1,7 +1,7 @@
 #####
 
 print
-suse linux - firmware upgrade/live-ls
+####    suse linux - firmware upgrade/live-ls
 ::
 #####
 ##

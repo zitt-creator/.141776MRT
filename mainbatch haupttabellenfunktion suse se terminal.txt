@@ -1,5 +1,6 @@
 print
-mainbatch suse terminal mainbatch
+#?    suse linux terminal 1.2 Se superuser  ?#:
+##;mainbatch suse terminal mainbatch;
 ::
 #####
 ##   Haupttabellenfunktion / OsX {x86/Ip}

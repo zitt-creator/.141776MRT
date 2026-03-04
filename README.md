@@ -28,25 +28,27 @@
 #
 [#####. .   .      #
 #.]
+#####
 #
 # .141776MRT##1.141k.alipe  #
-Medizintechnik#.
--  MrT Numische Formel √π×0,5×D2÷0,5π
--  MrT Rundlaufformel {e100-2.14}
+# Medizintechnik#.
+#-  MrT Numische Formel √π×0,5×D2÷0,5π
+#-  MrT Rundlaufformel {e100-2.14}
 #.
-##
-##;::
-#
-#
+#####
+##; ::  [++++++] ##
+#####
+#::
 #  Gamingtests  #..
-+++++++Developer full AI Test:++++++++
-Ip:
-666.6.6.6
+#  .+++++++Developer full AI Test:++++++++#..  
+#  .Ip:
+666.6.6.6#;
 ##.#####....   .#-4-4-0-1-#..   .  ..
 ##.
-#### [Player Tag] = [Kobata]\DDAAEE
-#
-##..
+#####
+#####:[ [Player Tag] = [Kobata]\DDAAEE::#####
+#####
+##..]
 #.
 ##    ##
 ...,......,.......,.....,....,

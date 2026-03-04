@@ -1,5 +1,6 @@
+#####
 print
-suselinux live-flash{ipc} - OsX
+####   suselinux live-flash{ipc} - OsX
 ::
 #####
 ##
@@ -23,16 +24,17 @@ livekernelflash   {.. }
 #####
 sudoexe  rom sodoexe4 pit4 rom -fdisk -U -ls zit1 nandflash
 #####
-##
+#####
 #
 ####    suseSe linux terminal Grundbefehl  ###
 #####  --- firmware flash - live upgrade
 zit1   rom -U nandflash  {..  }
 #####
 ##
-###
+#####
 #####
 ::
+#####
 ###77412###
 print
 

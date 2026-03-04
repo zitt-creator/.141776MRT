@@ -1,22 +1,48 @@
+print
+::
+#####
+##
+::
+#####
+
+
+
+
+
 ######################
 #########
 ######
 ##   suselinux SE Kernel
 ..
+::
 #   NAND flash ipc -ls
 sudoexe pit4 -fdisk rom -U //root/kernel/
 ##
 #   lossless KERNEL flash {firmwareupgrade}
-zit1  k.alipe c.pile -U rom nandflash
+{zit1}  k.alipe c.pile -U rom nandflash
 -f rom -fw-update rom c.pile rom nandflash   (dist.iso/zip)
+#####
+##
+::    legend  ###    ::
+#####
+####  sudoexe   -   start
+####  pit4      -   compress
+####  nand      -   write
+####  rom       -   read/write
+####  fdisk     -   write/read/write
+#####
+####  kalipe    -   nand processing
+####  cpile     -   compressed coding -l
+####  :::[33]   -   nand compiling.log
+#####
+::
 
 
 
 
 
 
-
-
-
+::
 ###7741###
 1.2.4.1
+print

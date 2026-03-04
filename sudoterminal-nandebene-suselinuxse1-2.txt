@@ -1,0 +1,15 @@
+print
+####  sudo befehl terminal
+::
+#####
+##
+#####
+##
+#
+#####
+####    sudo befehl  / root nandebene
+####    zit1 -A{pit4; sudoexe; nandflash}[]
+#####
+###4417###
+::
+print

@@ -1,0 +1,34 @@
+print
+#?    suse linux terminal 1.2 Se superuser  ?#:
+##;mainbatch suse terminal mainbatch;
+##
+#
+#####
+#?    Zit1 clanguage  +    ?#
+::
+#####
+##   Haupttabellenfunktion / OsX {x86/Ip}
+#####
+##
+#
+#### suse linux mainbatch terminal se batch
+#####
+##
+#####
+#
+# start terminal code --   zit1
+#####
+#####
+##   [33;46]   pit4   nandram fdisk -U rom zit1   -fdisk -table -U pit4 -glib -V telnet ram -glib -V rom
+#####
+#####
+#####
+##   compile code {c.pile}
+#####
+#####
+##   zit1 disk1 rom1 {glib -V specificROM.iso/zip}
+::
+#
+#
+###4471###
+print

@@ -2,6 +2,10 @@
 SUSE LINUX SE-ls
 #####
 print
+
+#####
+##
+#
 ####    suse linux - firmware upgrade/live-ls
 ::
 #####
@@ -18,6 +22,8 @@ print
 #.:::?#
 #::   ZIT1 -cpile -print  ::[34]::##9876## -print -f
 #####
+####   
+##  terminal . .
 [
   +++++
         ]
@@ -53,6 +59,10 @@ print
 #.]
 #####
 #
+##
+##
+#
+#####   MrT   ####
 # .141776MRT##1.141k.alipe  #
 # Medizintechnik#.
 #-  MrT Numische Formel √π×0,5×D2÷0,5π

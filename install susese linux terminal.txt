@@ -1,0 +1,40 @@
+print
+::
+#####
+####  linux Se Terminal 1.2 - install order
+#
+#####  build script codes / ip86
+#####  
+####    prerequiesietes
+##   -OsX
+####install -l terminal SUSE SE 1.2 ##
+#####
+##
+#terminal batch install - OsX -l
+#####           #####
+--  sudosudoexe zip rom -glib -V nandrom
+#
+#
+#####
+##
+#### script 1
+#####
+#
+pit4 sudoexe nand rom fdisk -U nandrom glib -V rom
+#####
+#
+##### script 2 #####
+#####
+#
+pit4 -fdisk -U -glib -i nandrom -fdisk -U nand -glib fdisk -U rom
+#####
+####   x86 processors kernelflash
+####  SUSELinuxSE 1.2 terminal
+pit4nand rom -fdisk -U nandflash
+#####
+#
+#####
+#####
+::
+###4417###
+print

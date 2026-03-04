@@ -25,16 +25,26 @@ print
 #.;  ####-- . .        #
 #;; -c {clanguage}::
 ;   -------##
-#### .. zit1 -A{pit4; sudoexe; nandflash}
-#. . . ##{pit4romexe-ls}#[36]#   .
-.####------------ . .
-###### suse linux Se 1.2 terminal #.
+#####
+##
+#
+#### zit1 c plus plus ####
+#### .. zit1 -A{pit4; sudoexe; nandflash}[]
+#####
+##
+#
+####   nomsche Formel - suse se linux
+####   4-4-0-1 ∆=∆ 8+5=7
+####  . . . ##{pit4romexe-ls}#[36]#
+#####
+#####  ------------ . .
+##### suse linux Se 1.2 terminal #.
 #  - lossless live KERNEL
-#### NAND flash #.
+##### NAND flash #.
 #  - I86/x86  romflash
-#### Ai - Game development Test Server ####
+##### Ai - Game development Test Server ####
 #  - 666.6.6.6 opensource
-## Resonanztechnik #.
+#### Resonanztechnik ####
 #  - Erf. Nr.: 1.341 It
 #  - Lapedusa.de :: 0.941
 #####

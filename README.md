@@ -13,7 +13,7 @@ print
 #::;_---------_--------_--------[4417]∆::.
 #####
 #::;      SUSE NANDFLASH--
-#; :
+#; :      /homebrew/z.itt/
 #;:::::. readme.
 #.:::?#
 #::   ZIT1 -cpile -print  ::[34]::##9876## -print -f

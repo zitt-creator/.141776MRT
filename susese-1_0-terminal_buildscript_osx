@@ -1,0 +1,59 @@
+susese - linux terminal 1.0 - nandflash
+{install build} - 1.0
+::
+print
+# Z.ITT
+## 1.0
+##### suse se
+##### linux terminal
+#### lossless
+## {ipc}
+#
+#####
+# c o d e
+#
+#
+####  script   ####
+#
+# {notepad} telnet...
+# {cmd/OsX} pit4...
+#
+####b a t c h####
+# 
+#
+##notepad## {telnet python -python rom -python pit4 python rom telnet#}
+python -telnet print -fdisk rom -python rom -fdisk flash
+start telnet
+
+on: ipconfig -U -(localhost)  -(telefonica)
+push: localhost
+#####
+pull_request: pit4rom nandflash
+branches: [ "main" ]
+workflow_dispatch:
+#####
+zit1 ipconfig -telefonicaIp -proxy -U -DeviceIp -WifiUefiRouter -U -DeviceIp
+#####
+jobs: pit4rom //root/kernel/
+#####
+build: zit1 localIp{localhost}
+#####
+runs-on: xxxdistro
+steps: rom
+#####
+#####
+zit1 python glib telnet
+√π×D^2+3,14÷π×3,19+1=0   -glib telnet nandrom glib python -glib telnet nandrom -glib python start telnet
+reset
+start
+zit1 rom nandflash python -glib telnet nandrom glib python pit4rom  python glib pit4rom python telnet -glib nandrom
+reset
+start
+#
+#
+#
+#
+###44417###
+::
+print
+

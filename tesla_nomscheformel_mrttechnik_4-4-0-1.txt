@@ -1,0 +1,23 @@
+nomsche Formel / Tesla - magnetfeldstaerke
+::
+print
+## Z.ITT
+# π=1
+#####
+#### resonanztechnik
+# nullradius
+r0=Rho×√π×phi3,19×Rho÷π×phi3,19×π+1
+#
+#####
+#  U=π×D  #
+#
+#####
+#
+#
+#
+#
+#
+#
+###44417###
+print
+

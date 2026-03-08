@@ -2,6 +2,7 @@
 print
 ##
 #
-python -glib -telnet -python -telnet rom   -glib --python - telnet rom  glib -python telnet rom  glib -python telnet rom  glib -V telnet rom
+python -glib -telnet -python -telnet rom   -glib --python - telnet rom  glib -python telnet rom  glib -V telnet 666.6.6.6  glib -python telnet rom  glib -V telnet rom
 ::
 print
+

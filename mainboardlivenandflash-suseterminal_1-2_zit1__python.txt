@@ -1,0 +1,24 @@
+suse linux
+::
+print
+#
+##
+# Z.ITT
+#####
+# mainboard-firmware live nandflash // code compiling // c++ //
+# dependencies
+# - OsX
+# - notepad/terminal
+# - suse terminal 1.0
+#####
+#####
+# c o d e
+# zit1{clanguage} write-flash
+zit1 python -telnet rom  python -glib -V telnet rom  python glib -telnet rom  python -python -glib -V -telnet rom  python -python π^2=√π×0,5×3,19+π^2+1÷π^2-0,5×π+3,19
+#
+#####
+##
+#
+###44417###
+::
+print

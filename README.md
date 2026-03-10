@@ -85,10 +85,12 @@ SUSE LINUX SE-ls
 #####
 #
 # .141776MRT##1.141k.alipe  #
-# Medizintechnik#.
-#-  MrT Numische Formel √π×0,5×D2÷0,5π
-#-  MrT Rundlaufformel {e100-2.14}
-#.
+# Medizintechnik #
+# -  MrTNumische#Formel
+# --  π=√π×0,5×D^2÷0,5π+1
+# -  MrT Rundlaufformel {e100-2.14}
+# --  π=√π×0,5rho×3,19phi+1÷π+0,5rho×3,19phi×π ##
+#
 #####
 #
 ##; ::  [++++++] ##

@@ -12,6 +12,7 @@ print
 # - suse terminal 1.0
 #####
 # c o d e
+# 
 python -telnet start zit1 python glib telnet {1xbreak/enter}
 print
 ::  python compile /write

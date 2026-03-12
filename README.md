@@ -141,7 +141,7 @@ SUSE LINUX SE-ls
 #
 #####
 #
-# :: https://github.com/hinnerkmiekley-create/.141776MRT/blob/56649206184b9da37caddce1e1f5a8df36d95810/susese-1_0-terminal_buildscript_osx.php
+# :: <a href="https://github.com/hinnerkmiekley-create/.141776MRT/blob/56649206184b9da37caddce1e1f5a8df36d95810/susese-1_0-terminal_buildscript_osx.php"/>
 # ::
 ##
 #

@@ -43,8 +43,9 @@ sudoexe pit4 -fdisk rom -U //root/kernel/
 #
 #####
 #
-###77741###
+###44417###
 1.2.4.1
 ::
 print
+
 

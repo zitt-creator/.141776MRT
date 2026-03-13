@@ -1,0 +1,31 @@
+suse terminal
+Ipu compile
+::
+print
+## suse
+# Z.ITT
+#####
+## compile
+# dependencies
+# - OsX
+# - cmd terminal // notepad
+#
+# c o d e
+python -python -glib -telnet rom  telnet start telnet  python π=√0,5+π×3,19+π+1÷0,5×π^2-0,5×3,19
+#
+#####
+##
+#
+#
+#
+#
+# {mainboard Ipu process compiling}
+#
+#
+#
+#
+#
+#
+###44417###
+::
+print

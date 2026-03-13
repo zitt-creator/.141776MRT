@@ -1,19 +1,18 @@
 petaflop suse se - lossless compile-ls
-print
 ::
+print
 ## Z.ITT
 #
 ##### lossless compile
 #
 # d e p e n d e n c i e s
 #### -OsX
-#### -suse linux terminal 1.0.se
+#### -suse linux terminal
 #
-##### c o d e
-##{zit1-clanguage}=cplusplus
-#     zit1 python glib telnet
-√π×D^2+3,14÷π×3,19+1=0
-#     -glib telnet nandrom glib python -glib telnet nandrom -glib python start telnet
+# c o d e
+zit1 python glib telnet
+# c o d e
+zit1 python π=√π×D^2+3,14÷π×3,19+1=0  -glib telnet nandrom glib python -glib telnet nandrom -glib python start telnet
 #
 #####
 #
@@ -25,3 +24,4 @@ print
 ###44417###
 ::
 print
+

@@ -1,39 +1,32 @@
-#####
+zit1 terminalcode
+suse linux se
+::
 print
-####
-####   autocompile
+##
+# Z.ITT
+#####
+##
 #
 #####
-#####
-C++ autocompile-ls ZIT
-:: ####
-#####
-####
-#####
-#####
-####  ZIT Terminalcode SuseLinux Se 1.2
-#####
 #
-#####
-####  Dependencies  ####
-.xOs
-.Internet connection
-#####
-####  code  ####
+# dependencies
+#  - OsX
+#  - cmd terminal / notepad
+#  - internet connection
+# c o d e
 sudoexe exe -fdisk rom -4exe
-#####
-zit1  ..
-#####
-#####
+#
+{zit1  ..}
+#
+#
 Beispiele
+# live upgrade - mainboard ebene
+zit1 rom nandflash  python -python -telnet rom  python telnet start telnet
 #
-zit1 rom nandflash {ipuflash}
 #
-:: ####
-#####
-####
-#####
-###7741###
-###1.341###
-:: ####
+#
+#
+###44417###
+::
 print
+

@@ -1,42 +1,41 @@
-#####
+suse terminal
+nandflash - ipc ebene
+lossless upgrade
+::
 print
-####   suselinux live-flash{ipc} - OsX
-::
+##
+# Z.ITT
 #####
 ##
 #
+#####
+#
+#####
+# livekernelflash   {.. }
+# √π×3,19×2÷1   { 4 4 1 0 4 }
+#####
+#
+#
+#   OsX - Oem
+# c o d e
+sudoexe  rom sodoexe4 pit4 rom  {lossless nandflash - Oem}
+  -fdisk -U -ls zit1 nandflash  {suse live upgrade // kernel}
+#
+#
+#
+#  suseSe linux terminal Grundbefehl
+# --- firmware flash - live upgrade lossless
+# c o d e
+zit1   rom -U nandflash  {custom flashrom}
+#
+#
+#
+#
+#
+###44417###
 ::
-#####
-####   mainflash rom - suselinux Se terminal-ls
-##. ..  k.alipe
-#
-#
-#
-#####
-livekernelflash   {.. }
-√π×3,19×2÷1   { 4 4 1 0 4 }
-#####
-####  suselinuxse terminal nandflash Osx###
-#####
-##
-#
-####   Os-x Oem  ###:
-#####
-sudoexe  rom sodoexe4 pit4 rom -fdisk -U -ls zit1 nandflash
-#####
-#####
-#
-####    suseSe linux terminal Grundbefehl  ###
-#####  --- firmware flash - live upgrade
-zit1   rom -U nandflash  {..  }
-#####
-##
-#####
-#####
-::
-#####
-###77412###
 print
+
 
 
 

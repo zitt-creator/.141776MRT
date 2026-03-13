@@ -31,7 +31,6 @@ SUSE LINUX SE-ls
 #
 #####
 # ::;      SUSE NANDFLASH--
-# ; :      /homebrew/z.itt/
 # ;:::::. readme.
 # .:::?#
 # ::   ZIT1 -cpile -print  ::

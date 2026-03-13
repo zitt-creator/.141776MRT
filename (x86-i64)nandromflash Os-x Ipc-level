@@ -35,13 +35,3 @@ zit1   rom -U nandflash  {custom flashrom}
 ###44417###
 ::
 print
-
-
-
-
-
-
-#
-..
-##7741###[5.14]
-.

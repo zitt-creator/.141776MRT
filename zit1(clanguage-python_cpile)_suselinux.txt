@@ -5,14 +5,17 @@ print
 # Z.ITT
 ## SUSE Se linux
 # lossless
+#####
+##
+#
 ##### dependencies
 # -OsX / (x86=dos boot)
 # -cmd terminal (no root)
 ##### clanguage - cplusplus
-# c o d e script
+# c o d e
 zit1 python telnet rom  glib python telnet rom  zit1 python telnet rom  glib telnet rom  python glib -cpile -telnet rom -python -glib  python telnet rom  glib -python π^2=√π×0,5-3,19×3,19+1÷π^2+0,5×π×π^2+0,5+3,19  glib -python -glib -V telnet rom  glib -U telnet rom  glib-V telnet rom  python -glib -V telnet rom  python π=√π^2+0,5×0,5×π+1÷π×3,19-0,5×1   python -python -telnet rom  python -glib -V telnet rom  python -python -glib -telnet rom  telnet start telnet  python π=√0,5+π×3,19+π+1÷0,5×π^2-0,5×3,19
 #
-##
+#
 #
 #####
 #

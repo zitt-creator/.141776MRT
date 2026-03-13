@@ -1,64 +1,67 @@
-#####
-print
-####   C++ compile - ZIT-ls
+suse linux
+c++ cache-compile
 ::
+print
+##
+# Z.ITT
 #####
-####
+##
 #
 #####
 #####
 ####. ..[36]
 #  suselinux Se terminal ,, cpile -ls .. ###
 #
-#### Z.ITT ####
-####  {zit1}   c.pile language   ###   ..
+#
+#  {zit1}   c.pile language
 #  suselinux Se terminal - lossless workflow #
 #      ## Tabellenkalkulilation/Automatisation  ##
-##.   .  . . #  ## . .    #
+## .   .  . . #  ## . .    #
 #
-## Dependencies ##
-###  -  OsX
-###   -  Texteditor
+# dependencies
+# -  suse terminal 1.0
+# -  OsX
+# -  cmd terminal / notepad
+#
 #####
-##
-#.
-#.
-##  prerequisietes ## . .
-###  -  open texteditor, type start, 2xbreak, (script.txt), script
-##
-#. .
-####  script   #######
-## Ip Routing ## . .    .
 #
+#
+#   prerequisietes
+#   -  open notepad, type start, 2xbreak, (script.txt), script
+#
+#
+# s c r i p t
+#
+# Ip Routing
 on: ipconfig -U -(localhost)  -(telefonica)
-  #
-  ####
-  push: localhost
-  #####
-  pull_request: pit4rom nandflash
-    branches: [ "main" ]
-##########
-  ######
-  workflow_dispatch:
+#
+#
+push: localhost
+#
+pull_request: pit4rom nandflash
+branches: [ "main" ]
+#
+#
+workflow_dispatch:
+#
 zit1 ipconfig -telefonicaIp -proxy -U -DeviceIp -WifiUefiRouter -U -DeviceIp
-#####
+#
 jobs: pit4rom //root/kernel/
-####
-  build: zit1 localIp{localhost}
-    #########
-    runs-on: xxxdistro
-####
-    ####
-    steps: rom
-      ###########
-      ####
-      #
+#
+build: zit1 localIp{localhost}
+#
+runs-on: xxxdistro
 #
 #
-      #### Befehle ###
+steps: rom
+#
+#
+#
+#
+# Befehle
 #      -  zit1  {Grundbefehl/Kernelebene}
 #      -  pit4  {nandflash}
- #     -  rom   {+linux basic}
+#      -  rom   {+linux basic}
 #
 #
 #

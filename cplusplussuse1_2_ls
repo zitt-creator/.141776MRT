@@ -31,7 +31,7 @@ print rom nandrom localiso.iso
 #
 ####  compile C++, OsX, nandrom  ####
 #
-###4417###
+###44417###
 #
 ..
 print

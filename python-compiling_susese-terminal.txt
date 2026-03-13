@@ -1,0 +1,46 @@
+python π
+π
+##
+# Z.ITT
+:: 
+print
+##
+# python compiling
+#####
+#
+# lossless compiling 
+# numische Rechnung
+π=√0,5+π×3,19+π+1÷0,5×π²-0,5×3,19 
+# Funktionale Erweiterung
+×(+x) 
+# compile
+python -glib -V telnet python glib -python start telnet 
+# suse linux terminal Se
+sudosudoexe pit4rom telnet pit4rom python -python glib -V telnet python
+π²=π×3,19-π+1÷π²+0,5×3,19+1 -glib -U telnet rom start telnet 
+# Hauptbefehle
+pit4 - boot//read nandrom 
+rom - nandrom 
+c.pile - terminal compile // cache 
+cpile - compile 
+suse Se cache-compile
+pit4rom c.pile pit4 cpile pit4rom c.pile
+#
+#
+# Erklärung
+numische Rechnung: Reck-rechenrundung zum Messen des Magnetflusses. 
+Funktionale Erweiterung: nomische Formel + multipliziert mit dem hex-Wert, der
+entsprechend der Modem hardware den Wert [33] hat, wird die firmware
+eingelesen. 
+compile: start Sdk. 
+suse linux terminal Se: live kernel flash. 
+suse Se cache-compile: firmware live Upgrade.
+#
+#
+#
+#
+#
+###44417###
+::
+print
+

@@ -33,5 +33,6 @@ print rom nandrom localiso.iso
 #
 ###44417###
 #
-..
+::
 print
+

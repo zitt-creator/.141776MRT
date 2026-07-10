@@ -4,6 +4,7 @@ print
 ##
 #
 #####
+s u s e  linux  se-ls
 #
 Mathematische Formeln zur Eingabe in C++
 #

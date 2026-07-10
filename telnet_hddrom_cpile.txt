@@ -1,0 +1,26 @@
+print
+# telnet rom compile
+## Z.ITT
+## Os/x
+##
+# telnet rom compile from exe
+# dependecies
+# - notepad
+# - Os/x
+## c o d e
+telnet localhost  telnet -V rom  telnet localhost
+telnet rom  telnet localhost  appname    telnet -V rom  telnet -U rom  telnet localhost  app-buildname.exe.zip
+telnet rom  telnet -V rom  telnet -V rom  telnet localhost  app-buildname
+telnet  {telnet name}    start telnet
+telnet start
+print
+#
+##
+#
+#
+#####
+#
+# lokal gespeicherte .exe{.apk} als .exe.zip dem kernel hinzufügen mit telnet.
+##
+print
+

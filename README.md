@@ -5,6 +5,7 @@ print
 #
 #####
 s u s e  linux  se-ls
+eselmail
 #
 Mathematische Formeln zur Eingabe in C++
 #

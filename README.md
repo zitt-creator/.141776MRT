@@ -4,9 +4,11 @@ print
 ##
 #
 #####
-s u s e  linux  se-ls
+s u s e Karlia linux UbuntuUt SE-ls
+#
 eselmail
 #
+#####
 Mathematische Formeln zur Eingabe in C++
 #
 Kernzerschwingungsberechnungen, wie sie für die Berechnung des Rundlaufmodus des M.r.T angewandt werden können.

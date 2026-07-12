@@ -150,7 +150,8 @@ print
 ###44417### .
 #####
 #
-#
+# DdOS und Festplatte noch auslesbar?
+# 0.0.0.0 nach Hause telefonieren mit 33,6k
 #####
 ############## ; ::  ; ---::
 #####

@@ -14,6 +14,12 @@ Durch Störfelder beeinflusste Zählwerke können auch durch angeschlossene Stro
 ##
 #
 #####
+#
+Erdwiderstand=0,5×G{9,14N}×(π+rho0,5)×(rho0,5-phi3,19×π)-π
+#####
+#
+##
+#
 say no to sadimis
 #
 ##

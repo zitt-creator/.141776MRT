@@ -1,0 +1,29 @@
+print
+# HDD Fragmentierung / Mainboard Flash loose
+## Os/x
+#
+## Z.ITT
+#
+#####
+# c o d e
+0exepit4rom  nandrom  pit4rom  pit4romnandflashk.alipe   pit4romnandflash  pit44pitexeromkalipenandflash  pit4romkalipe  pit44pitexeromnandflash4pitexe  pit4romnandromk.alipe  pit4romnandromnandflash
+#
+##
+#
+#####
+# dependencies
+# - Os/x cmd-Terminal oder notepad
+# - Wifi Router über Usb empfehlenswert bei stationären Rechnern für ein besseres Ergebnis.
+##
+#
+#####
+# Android / Ios
+# - notepad
+# -- Android Empfehlung: Notally.apk{f-droid}
+##
+#
+#####
+# 44417
+##
+#
+print

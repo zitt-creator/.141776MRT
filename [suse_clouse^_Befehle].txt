@@ -1,0 +1,57 @@
+print
+# s u s e    Befehlsliste - clouse^
+##
+#
+## Z.ITT
+#
+##
+#####
+# c o d e
+- clouse^
+# Befehle die in das Os per Terminal oder notepad eingegeben werden, erzeugen oft Fehlermeldungen, die auf der Betriebsebene codieren und keine Auswirkungen aud die DOS Ebene haben.
+#####
+#####
+# . break{Enter}
+##### oder
+# . 2xbreak
+zum öffnen der Haupteingabezeile eingeben{2xbreak zum Eintragen/Erzeugen der .zip im kernel.
+1xbreak erfordert die Eingabe von xX und pP mit zwei Leerzeichen dazwischen für den pre-cache compile, der mit weiteren Befehlen erweitert werden kann zum schreiben und lesen der jeweiligen .zip.
+#
+##
+#
+##
+#####
+# c o d e
+# - s u s e    Befehle
+## anno 07/2026
+#
+##
+#
+0exe   {fragmentierung}
+pit4   {cache read/write}
+4pitexe {loose firmware read/write}
+fdisk
+telnet, python, glib
+python
+glib
++ alle linux Befehle
+# Programm+ -V Ram read/write
+#           -U Ram read. .rom read/write. .Ram write. .Ram write
+#
+##
+#
+##
+#
+#####
+#
+##
+#
+## 44417
+#
+print
+
+
+
+
+
+

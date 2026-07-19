@@ -25,8 +25,10 @@ zum öffnen der Haupteingabezeile eingeben{2xbreak zum Eintragen/Erzeugen der .z
 # - s u s e    Befehle
 ## anno 07/2026
 #
-##
+## 
 #
+xX     {cache read letzte .zip}
+pP     {cache print(cache .txt flop)}
 0exe   {fragmentierung}
 pit4   {cache read/write}
 4pitexe {loose firmware read/write}

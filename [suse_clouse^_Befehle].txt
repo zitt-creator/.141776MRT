@@ -11,6 +11,7 @@ print
 # Befehle die in das Os per Terminal oder notepad eingegeben werden, erzeugen oft Fehlermeldungen, die auf der Betriebsebene codieren und keine Auswirkungen aud die DOS Ebene haben.
 #####
 #####
+# terminal c o d e {notepad 2xbreak ohne Punkt vorweg.}
 # . break{Enter}
 ##### oder
 # . 2xbreak

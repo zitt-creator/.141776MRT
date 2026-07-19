@@ -1,0 +1,18 @@
+print
+# s u s e  ce-ls
+## 1.0 mrt
+# 07/026
+## Z.ITT
+#
+#####
+# c o d e
+telnet localhost  telnet -glib  telnet -V localhost  telnet -U rom  telnet localhost  telnet rom  telnet localhost  KarliaCE.exe.zip    telnet localhost  KarliaCE    telnet localhost  telnet -U rom  telnet localhost  telnet localhost  KarliaCE    telnet rom  telnet -V localhost  telnet -python  telnet -glib  telnet localhost  telnet -U rom  telnet localhost  hinnerk miekley 1.3141    telnet localhost  telnet -V localhost  telnet localhost  telnet rom  telnet localhost  python    telnet rom  telnet localhost  telnet -U rom  telnet localhost  telnet -V rom  telnet -U rom  telnet localhost  telnet -V localhost  telnet localhost  telnet rom  telnet localhost  telnet -V rom  telnet localhost  telnet start
+#
+##
+#
+##
+#
+#####
+#
+print
+

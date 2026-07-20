@@ -1,13 +1,27 @@
-##[36][12]
-::
 print
+#
+##
+#
 ##
 #
 #####
-# anno 07/2026
-s u s e Karlia linux UbuntuUt SE-ls
 #
-eselmail
+##
+#
+#####
+# i n f o
+#
+##
+#
+#####
+S U S E
+- suse Karlia CE
+DOS Os geeignet als Mrt-Steuerprogramm
+#
+- suse Karlia UbuntuUt linux -ls
+DOS Os durch Ubuntu script und unrealtournament.zip zum read/write von HDD fähig.
+#
+##
 #
 #####
 Mathematische Formeln zur Eingabe in C++
@@ -162,6 +176,7 @@ print
 #
 ::
 print
+
 
 
 

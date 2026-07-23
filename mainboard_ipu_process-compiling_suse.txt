@@ -1,11 +1,10 @@
-suse terminal
-Ipu compile
-::
 print
-## suse
-# Z.ITT
-#####
-## compile
+# suse terminal
+## Ipu compile
+#
+## Z.ITT
+#
+#
 # dependencies
 # - OsX
 # - cmd terminal // notepad
@@ -13,19 +12,24 @@ print
 # c o d e
 python -python -glib -telnet rom  telnet start telnet  python π=√0,5+π×3,19+π+1÷0,5×π^2-0,5×3,19
 #
-#####
 ##
 #
 #
 #
 #
+#
 # {mainboard Ipu process compiling}
+start this directly with python to create the .zip from which suse will read/write the firmware lossless.
+The .zip[s] can all be renamed if you can find the number, which was created in ///root/kernel/
 #
+##
 #
+2xbreak{Enter} in suse always helps to reset the Mainboard after each code.
 #
-#
+##
 #
 #
 ###44417###
 ::
 print
+

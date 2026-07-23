@@ -6,6 +6,15 @@ s u s e  linux  Karlia{UbuntuUt} + eselmail{telnet messenger + suse install}
 # Z.ITT
 ##
 #####
+# eselmail prüft, wenn Aktien vorhanden sind oder wenn der Besitzer des Gerätes auf dem der telnet messenger installiert ist beim Bundesrat eingetragen ist, die Meldedaten der zwei Persona bis hin zum aktuellen Steuerbescheid, sodaß persönliche Daten aktuell bleiben.
+Dieser Datenabgleich mit der jeweiligen Regierung ist auch ohne eselmail ständig vorhanden.
+#
+##
+#
+#
+##
+#
+#####
 # c o d e
 telnet rom  telnet localhost  telnet -V rom  telnet rom  telnet localhost
 telnet rom  telnet -U localhost  telnet localhost  telnet -python  telnet -V rom  telnet localhost  telnet rom

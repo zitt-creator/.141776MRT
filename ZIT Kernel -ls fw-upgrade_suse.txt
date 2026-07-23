@@ -1,20 +1,15 @@
-suse se linux terminal lossless
-OsX mac specific upgrade
-::
 print
-##
-# Z.ITT
-#####
-## compile
+# suse se linux terminal lossless
+## OsX mac specific upgrade
+#
+## Z.ITT
 #
 #####
-######################
-#########
-######
+#
 #  suselinux SE Kernel
 #
 #   NAND flash ipc -ls
-# c o d e
+# c o d e 
 sudoexe pit4 -fdisk rom -U //root/kernel/
 #
 #   lossless KERNEL flash {firmwareupgrade}
@@ -24,10 +19,9 @@ sudoexe pit4 -fdisk rom -U //root/kernel/
 #
 #####
 #
-#####
+##
 #   legende
 #
-#####
 #
 ####  sudoexe   -   start
 ####  pit4      -   compress
@@ -43,9 +37,10 @@ sudoexe pit4 -fdisk rom -U //root/kernel/
 #
 #####
 #
-###44417###
-1.2.4.1
+## 44417
+#
 ::
 print
+
 
 

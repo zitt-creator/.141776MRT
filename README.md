@@ -8,6 +8,7 @@ print
 #
 ##
 #
+s u s e install with telnet easy with script.
 #####
 # i n f o
 #

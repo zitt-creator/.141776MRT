@@ -1,28 +1,32 @@
-MRT Rundlaufformeln
-coding - {c++}kalipe[33]
-kalipe=c++{C+ -compile -recompile cpile}
-::
 print
-##
-# Z.ITT
-#####
-## coding
+# MRT Rundlaufformeln
+## coding - {c++}kalipe[33]
+# kalipe=c++{C+ -compile -recompile cpile}
 #
-##### Formeln
+## Z.ITT
+#
+#####
+#
+##
+#
+# Formeln
 #
 - MrTNumische Formel {e100}
 -- π=√π×0,5rho×D^2÷0,5rho×π+1
 - MrT Rundlaufformel {e100-2.14}
 -- π=√π×0,5rho×3,19phi+1÷π+0,5rho×3,19phi×π
 #
-#####
+##
+#
+##
 #
 #
 #
 #
 #
-#
+##
 #
 ###44417###
 ::
 print
+

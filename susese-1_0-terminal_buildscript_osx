@@ -1,24 +1,25 @@
-susese - linux terminal 1.0 - nandflash
-{install build} - 1.0
-::
 print
+# susese - linux terminal 1.0 - nandflash
+## {install build} - 1.0
 # Z.ITT
-## 1.0
-##### suse se
-##### linux terminal
-#### lossless
-## {ipc}
+# 1.0
+## suse se
+# linux terminal
+##### lossless
+# {ipc}
 #
 #####
+#
+##
 # c o d e
 #
 #
-####  script   ####
+#### script ####
 #
 # {notepad} telnet...
 # {cmd/OsX} pit4...
 #
-####b a t c h####
+#### b a t c h ####
 # 
 #
 ##notepad## {telnet python -python rom -python pit4 python rom telnet#}

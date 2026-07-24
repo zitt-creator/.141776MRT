@@ -1,15 +1,13 @@
-suse linux
-c++ cache-compile
-::
 print
-##
+# suse linux terminal
+## c++ cache-compile
+#
 # Z.ITT
-#####
 ##
 #
 #####
-#####
-####. ..[36]
+#
+# . ..[36]
 #  suselinux Se terminal ,, cpile -ls .. ###
 #
 #
@@ -24,7 +22,7 @@ print
 # -  cmd terminal / notepad
 #
 #####
-#
+##
 #
 #   prerequisietes
 #   -  open notepad, type start, 2xbreak, (script.txt), script
@@ -60,7 +58,7 @@ steps: rom
 #
 # Befehle
 #      -  zit1  {Grundbefehl/Kernelebene}
-#      -  pit4  {nandflash}
+#      -  pit4  {romread/nandflash}
 #      -  rom   {+linux basic}
 #
 #
@@ -68,7 +66,11 @@ steps: rom
 #
 #
 #####
-###44471###
+#
+##
+#
+###44417###
 #
 ::
 print
+

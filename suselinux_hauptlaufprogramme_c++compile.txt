@@ -1,14 +1,13 @@
-suse linux terminal
-c++ compile
-Sdk upgrade compile
-::
 print
-## c++
-# Z.ITT
-##### suse
-## terminal
+# suse linux terminal
+## c++ compile
+# Sdk upgrade compile
+# c++
+## Z.ITT
 #
-##### 
+#####
+#
+##
 #
 # dependencies
 # - OsX
@@ -19,7 +18,7 @@ print
 zit1 python telnet rom  python zit1 pit4rom  python -glib -V telnet  python -glib -V telnet  glib -V telnet  python -glib -python -glib -U telnet rom  python -glib -telnet file.zip/network-Ip -python -glib -V telnet  python glib -V telnet  python glib -python -glib -V telnet  python π^2=√0,5+3,19×0,5+1÷π×3,19×0,5  python -glib -V telnet  glib -python -glib -V telnet  python -telnet rom  python -glib -python telnet rom  python telnet rom  python -glib -V telnet  glib -python -glib -V telnet  -python -glib -V telnet  python start telnet
 #
 #####
-#
+##
 #
 #
 #
@@ -30,3 +29,4 @@ zit1 python telnet rom  python zit1 pit4rom  python -glib -V telnet  python -gli
 ###44417###
 ::
 print
+

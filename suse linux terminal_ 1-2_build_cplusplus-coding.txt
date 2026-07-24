@@ -1,10 +1,11 @@
-suse linux se - terminal - ver. 1.2
-c++ coding
-::
 print
-##
-# Z.ITT
+# suse linux se - terminal - ver. 1.2
+## c++ coding
+#
+## Z.ITT
+#
 #####
+#
 ##
 # coding
 #

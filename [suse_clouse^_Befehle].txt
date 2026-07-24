@@ -2,10 +2,11 @@ print
 # s u s e    Befehlsliste - clouse^
 ##
 #
-## Z.ITT
-#
+# Z.ITT
 ##
+#
 #####
+##
 # c o d e
 - clouse^
 # Befehle die in das Os per Terminal oder notepad eingegeben werden, erzeugen oft Fehlermeldungen, die auf der Betriebsebene codieren und keine Auswirkungen aud die DOS Ebene haben.
@@ -52,9 +53,4 @@ glib
 ## 44417
 #
 print
-
-
-
-
-
 

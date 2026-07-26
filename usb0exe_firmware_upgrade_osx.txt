@@ -1,0 +1,28 @@
+print
+# usb upgrade
+## Os/x
+#
+#
+## Z.ITT
+#
+#####
+# c o d e
+sudoexe    0exesudoexe    0exesudoexe    0exe4pitexe    0exe  sudoexe    0exe  usb(33))(47))(91))(47))
+#
+##
+#
+#####
+#
+Mainboard Upgrade Os/x, no dependencies.
+(33) = K.alipe = rom read/write
+(91) = .zip    = kernel
+(47) = cache   = ram read/write
+#
+##
+#
+#####
+#
+## 44417
+#
+print
+

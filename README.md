@@ -8,7 +8,7 @@ print
 #
 ##
 #
-s u s e install with telnet, easy with script.
+s u s e install with telnet, easy with script. -->  (0010... .txt)
 #####
 #
 # i n f o
@@ -35,20 +35,8 @@ Kernzerschwingungsberechnungen, wie sie für die Berechnung des Rundlaufmodus de
 # nandromflash
 #
 #####
-#####
-#####
-SUSE LINUX SE-ls
-#####
-#####
-####    suse linux - firmware upgrade/live-ls
+##
 #
-#
-#####
-#
-#[11]  #
-#####
-#
-#####
 #
 # :: ####   ±±±±±±±   ####
 # ::+++++####+++++####+++++####++++?::
@@ -56,15 +44,10 @@ SUSE LINUX SE-ls
 # ::;_---------_--------_--------[4417]∆::.
 #
 #####
-# ::;      SUSE NANDFLASH--
-# ;:::::. readme.
-# .:::?#
-# ::   ZIT1 -cpile -print  ::
-# [34]::##9876## -print -f -glib -python - telnet rom  
-print
+##
 #
 #
-#####
+#
 [
   +++++
         ]
@@ -81,11 +64,7 @@ print
 #
 #
 #####
-# :: bash-script suse terminal #
-#### .. zit1 -A{pit4; sudoexe; nandflash}[33]
-#
-#####
-#
+##
 #
 ####   nomsche Formel - suse se linux
 ####   4-4-0-1 ∆=∆ 8+5=7
@@ -94,17 +73,10 @@ print
 #####  ------------ . .
 #
 #####
-#
-#  - lossless live KERNEL
-##### NAND flash #.
-#  - I86/x86  romflash
+##
 #
 #####
-#
-#####
-#
-#
-#
+##
 #
 #### Resonanztechnik ####
 #
@@ -131,33 +103,15 @@ print
 # ; ::  [++++++] ##
 #
 #####
+##
 #
-#####
 ##.#####....   .#-4-4-0-1-#..   .  ..
-#####
+#
+##
+#
 #####
 #
-#### 666 ####
-#####:[ [Player Tag] = [Kobata]\DDAAEE::#####
-#####
-##..]
-####::
-#####
 ...,......,.......,.....,....,
-#
-#
-- Mitsubishi Kotatai
-#####
--
--
--
--
--
--
-.
-#
-#
-#
 #
 #
 # . .  .;
@@ -165,11 +119,10 @@ print
 #
 ###44417### .
 #####
+##
 #
-# DdOS und Festplatte noch auslesbar?
-# 0.0.0.0 nach Hause telefonieren mit 33,6k
-#####
 ############## ; ::  ; ---::
+#
 #####
 #
 # :: <a href="https://github.com/hinnerkmiekley-create/.141776MRT/blob/56649206184b9da37caddce1e1f5a8df36d95810/susese-1_0-terminal_buildscript_osx.php"/>
@@ -178,6 +131,7 @@ print
 #
 ::
 print
+
 
 
 

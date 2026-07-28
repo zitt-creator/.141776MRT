@@ -1,0 +1,31 @@
+print
+# usb-stick read/write
+## Os/x
+#
+#
+## Z.ITT
+#
+#####
+# c o d e
+# .txt Datei Nr.1{mit # in der ersten Zeile}
+#
+.CCEEDD+EECADD++AACCEE
+.
+
+
+# .txt Datei Nr.2
+0exe  4pitexe  0exe    sudoexepit4    sudoexe  pit4    sudoexe    4pitexe  pit4    sudoexe  pit4sudoexe  pit4    sudoexe    usb(33))(47))(81))(47))(01))(47))(91))(01))
+#
+#####
+#
+##
+# Erklärung:
+read/write vom Usb-Stick(auch im Netzwerk), wenn beide .txt Dateien auf den Stick kopiert werden.
+.zip Dateien und ganze Programme, die auf den Stick kopiert wurden können angesprochen und zum compilieren genutzt werden.
+#
+##
+# 44417
+#####
+#
+print
+

@@ -13,8 +13,8 @@ s u s e install with telnet, easy with script. -->  (0010... .txt)
 #
 # i n f o
 #
-##
-#
+## workstation - Dual Core 2 x 1,6 Ghz
+# https://www.zotac.com/de/product/mini_pcs/ci620-nano
 #####
 S U S E
 - suse Karlia CE

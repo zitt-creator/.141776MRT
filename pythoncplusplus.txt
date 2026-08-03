@@ -1,0 +1,10 @@
+
+
+telnet start telnet
+python -glib -V telnet
+python -glib -U telnet rom
+python -python -glib -V telnet
+glib -V telnet  python -glib -U telnet rom
+python -glib -V telnet
+telnet start telnet
+print

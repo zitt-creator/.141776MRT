@@ -1,0 +1,16 @@
+
+
+telnet start telnet
+telnet -glib -U telnet rom
+telnet -glib -V telnet
+telnet -glib -U telnet rom  python -glib -V telnet
+telnet -glib -U telnet rom
+python -glib -V telnet
+python -glib -U telnet rom
+python -python -glib -V telnet
+python start telnet
+telnet unrealtournament.zip
+start telnet
+python -glib -U unrealtournament.zip -python -glib -V //utstarter.exe  -python -glib -V cpile  python -glib -U telnet rom
+telnet start telnet
+print

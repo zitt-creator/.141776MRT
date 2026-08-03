@@ -19,6 +19,11 @@ s u s e install with telnet, easy with script. -->  (0010... .txt)
 # https://www.zotac.com/de/product/mini_pcs/ci620-nano
 #
 #####
+#
+##
+# tcp/ip smartphone to TV -- scrcpy
+https://github.com/Genymobile/scrcpy
+#
 S U S E
 - suse Karlia CE
 DOS Os geeignet als Mrt-Steuerprogramm

@@ -28,6 +28,10 @@ https://github.com/Genymobile/scrcpy
 # clonezilla live {backup full HDD;work with apache web server}
 https://clonezilla.org/clonezilla-usage/clonezilla-live-usage.php
 #
+# dummy vpn android {port reselection / udp}
+https://f-droid.org/en/packages/net.stargw.fok/
+#
+#
 ##
 #
 S U S E

@@ -12,6 +12,9 @@ s u s e install with telnet, easy with script. -->  (0010... .txt)
 #####
 #
 # i n f o
+# i n s t a l l s u s e. .
+^T=ca. 3d{3 Tage}
+# Zeit für volle Installation von suse Karlia ca. 3 Tage.
 #
 #####
 #

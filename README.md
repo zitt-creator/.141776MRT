@@ -35,8 +35,13 @@ https://clonezilla.org/clonezilla-usage/clonezilla-live-usage.php
 https://f-droid.org/en/packages/net.stargw.fok/
 #
 #
+## bined -- Hex editor
+https://f-droid.org/packages/org.exbin.bined.editor.android/
 ##
 #
+##
+#
+#####
 S U S E
 - suse Karlia CE
 DOS Os geeignet als Mrt-Steuerprogramm

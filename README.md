@@ -22,7 +22,15 @@ s u s e install with telnet, easy with script. -->  (0010... .txt)
 # https://www.zotac.com/de/product/mini_pcs/ci620-nano
 #
 #####
+#
 # good software from anyone
+#####
+##
+# Microsoft Windows eversince -- HEX-Editor/cmd
+ask Bill for the command to Enter, he build it;it exists.
+#
+##
+#
 ## genymobile -- github
 # tcp/ip smartphone to TV -- scrcpy
 https://github.com/Genymobile/scrcpy

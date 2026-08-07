@@ -24,6 +24,12 @@ s u s e install with telnet, easy with script. -->  (0010... .txt)
 # tcp/ip smartphone to TV -- scrcpy
 https://github.com/Genymobile/scrcpy
 #
+#####
+# clonezilla live {backup full HDD;work with apache web server}
+https://clonezilla.org/clonezilla-usage/clonezilla-live-usage.php
+#
+##
+#
 S U S E
 - suse Karlia CE
 DOS Os geeignet als Mrt-Steuerprogramm

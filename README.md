@@ -133,7 +133,8 @@ Kernzerschwingungsberechnungen, wie sie für die Berechnung des Rundlaufmodus de
 ##
 #
 #### Resonanztechnik ####
-#
+# c o d e. .{resonanzabgleich}
+x{+-}0,5×π^2×0,5rho{+-}0,5rho=π{+-}3,19phi+3,19phi{+-}π^2{+-}π{+-}3,19phi×π÷π^2{+-}0,5rho×0,5rho{+-}π+1
 #####
 #
 #####

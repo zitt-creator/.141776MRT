@@ -21,6 +21,12 @@ s u s e install with telnet, easy with script. -->  (0010... .txt)
 ^T=ca. 3d{3 Tage}
 # Zeit für volle Installation von suse Karlia ca. 3 Tage.
 #
+##
+#
+commands within the {} mostly ignored, if they are wrong.
+you can type whatever you want instead Zit1 within the {} for your s u s e c-language -- monitor clanguage name.
+#
+##
 #####
 #
 ## workstation - Dual Core 2 x 1,6 Ghz

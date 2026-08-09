@@ -3,10 +3,13 @@ print
 ##
 #
 ## Z.ITT
+# { die Wahrheit; die ein Jeder erfährt, war und wird immer über den Spiegel vom Sodilur richten; und das Leben in der Zukunft weiterhin, konstant erzwingen{. .
 #
+##
 #####
 #
 ##
+#
 #
 s u s e install with telnet, easy with script. -->  (0010... .txt)
 #####

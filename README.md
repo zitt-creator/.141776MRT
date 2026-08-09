@@ -2,7 +2,8 @@ print
 #
 ##
 #
-## Z.ITT
+## Z.ITT. .{ l a p e d u s a{T€1..,;,3.6}{T}} } . .{m h h  stiftung1:}. .{1.3141}. .{{π=1{}}
+##
 # { die Wahrheit; die ein Jeder erfährt, war und wird immer über den Spiegel vom Sodilur richten; und das Leben in der Zukunft weiterhin, konstant erzwingen{. .
 #
 ##

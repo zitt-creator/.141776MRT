@@ -24,7 +24,8 @@ s u s e install with telnet, easy with script. -->  (0010... .txt)
 ##
 #
 commands within the {} mostly ignored, if they are wrong.
-you can type whatever you want instead Zit1 within the {} for your s u s e c-language -- monitor clanguage name.
+you can type whatever you want instead Zit1 within the {} for your s u s e c-language -- monitor clanguage name and you can change from Zit1 to y o u r clanguage name also later in suse.
+. 2xbreak  //kernel/  1xbreak  //kernel//kernel/  1xbreak  fdisk -V rom  fdisk -V rom  telnet rom  1xbreak  .  2xbreak  telnet rom  telnet -U rom  telnet rom  1xbreak  .  2xbreak  telnet rom  telnet rom  telnet -V rom  telnet rom  telnet -V rom  telnet rom  telnet rom  telnet rom  1xbreak  .  2xbreak  python  python=π÷2    python  python    telnet rom  telnet -V rom  telnet rom  1xbreak  .  2xbreak  python=π÷2    telnet rom  telnet rom  python  python=π÷2    telnet rom  telnet rom  python=π÷2    telnet rom  telnet rom  1xbreak  .  2xbreak  python=π÷2    telnet rom  telnet start telnet  1xbreak  .  2xbreak  telnet rom  telnet -V rom  telnet -V rom  telnet rom  telnet start telnet  1xbreak  .  2xbreak  telnet rom  telnet -U rom  telnet -V rom  telnet -V rom  telnet rom  telnet -V rom  telnet -V rom  telnet rom  telnet rom  telnet -V rom  telnet rom  telnet -V rom  telnet rom  telnet start telnet  1xbreak  .  2xbreak  telnet rom  yourclanguagemonitorlanguagename    telnet rom  telnet start telnet  1xbreak  .  1xhreak to control{wait 10 seconds after break}.
 #
 ##
 #####

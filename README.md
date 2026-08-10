@@ -1,10 +1,14 @@
 print
-#
-##
-#
+::
+# a.
+## F1/a./
+# 0047
+print ::;
 ## Z.ITT. .{ l a p e d u s a{T€1..,;,3.6}{T}} } . .{m h h  stiftung1:}. .{1.3141}. .{{π=1{}}
 ##
+#
 # { die Wahrheit; die ein Jeder erfährt, war und wird immer über den Spiegel vom Sodilur richten; und das Leben in der Zukunft weiterhin, konstant erzwingen{. .
+##
 #
 ##
 #####
@@ -14,9 +18,11 @@ print
 #
 s u s e install with telnet, easy with script. -->  (0010... .txt)
 #####
-#
-# i n f o
 ##
+#
+#5 i n f o{33}}{π=1}}
+##
+#
 # ftp -- 4.1.6.33--Karlia.zip{.txt}
 # i n s t a l l    s u s e. .
 ^T=ca. 3d{3 Tage}
@@ -24,9 +30,10 @@ s u s e install with telnet, easy with script. -->  (0010... .txt)
 #
 ##
 #
+##
 commands within the {} mostly ignored, if they are wrong.
 you can type whatever you want instead Zit1 within the {} for your s u s e c-language -- monitor clanguage name and you can change from Zit1 to y o u r clanguage name also later in suse.
-. 2xbreak  //kernel/  1xbreak  //kernel//kernel/  1xbreak  fdisk -V rom  fdisk -V rom  telnet rom  1xbreak  .  2xbreak  telnet rom  telnet -U rom  telnet rom  1xbreak  .  2xbreak  telnet rom  telnet rom  telnet -V rom  telnet rom  telnet -V rom  telnet rom  telnet rom  telnet rom  1xbreak  .  2xbreak  python  python=π÷2    python  python    telnet rom  telnet -V rom  telnet rom  1xbreak  .  2xbreak  python=π÷2    telnet rom  telnet rom  python  python=π÷2    telnet rom  telnet rom  python=π÷2    telnet rom  telnet rom  1xbreak  .  2xbreak  python=π÷2    telnet rom  telnet start telnet  1xbreak  .  2xbreak  telnet rom  telnet -V rom  telnet -V rom  telnet rom  telnet start telnet  1xbreak  .  2xbreak  telnet rom  telnet -U rom  telnet -V rom  telnet -V rom  telnet rom  telnet -V rom  telnet -V rom  telnet rom  telnet rom  telnet -V rom  telnet rom  telnet -V rom  telnet rom  telnet start telnet  1xbreak  .  2xbreak  telnet rom  yourclanguagemonitorlanguagename    telnet rom  telnet start telnet  1xbreak  .  1xbreak to verify the print {wait 10 seconds after break}.
+. 2xbreak  //kernel/  1xbreak  //kernel//kernel/  1xbreak  fdisk -V rom  fdisk -V rom  telnet rom  1xbreak  .  2xbreak  telnet rom  telnet -U rom  telnet rom  1xbreak  .  2xbreak  telnet rom  telnet rom  telnet -V rom  telnet rom  telnet -V rom  telnet rom  telnet rom  telnet rom  1xbreak  .  2xbreak  python  python=π÷2    python  python    telnet rom  telnet -V rom  telnet rom  1xbreak  .  2xbreak  python=π÷2    telnet rom  telnet rom  python  python=π÷2    telnet rom  telnet rom  python=π÷2    telnet rom  telnet rom  1xbreak  .  2xbreak  python=π÷2    telnet rom  telnet start telnet  1xbreak  .  2xbreak  telnet rom  telnet -V rom  telnet -V rom  telnet rom  telnet start telnet  1xbreak  .  2xbreak  telnet rom  telnet -U rom  telnet -V rom  telnet -V rom  telnet rom  telnet -V rom  telnet -V rom  telnet rom  telnet rom  telnet -V rom  telnet rom  telnet -V rom  telnet rom  telnet start telnet  1xbreak  .  2xbreak  telnet rom  {yourclanguagemonitorlanguagename}    telnet rom  telnet start telnet  1xbreak  .  1xbreak to verify the print {wait 10 seconds after break}.
 #
 ##
 #####
@@ -35,6 +42,7 @@ you can type whatever you want instead Zit1 within the {} for your s u s e c-lan
 # Ubuntu Studio 18.04 --x64
 #
 https://www.zotac.com/de/product/mini_pcs/ci620-nano
+#
 ##
 #
 #####
@@ -70,20 +78,23 @@ https://f-droid.org/packages/org.exbin.bined.editor.android/
 ##
 #
 #####
+#
 S U S E
 - suse Karlia CE
 DOS Os geeignet als Mrt-Steuerprogramm
 #
 - suse Karlia UbuntuUt linux -ls
 DOS Os durch Ubuntu script und unrealtournament.zip zum read/write von HDD fähig.
+##
 #
 ##
 #
 #####
 Mathematische Formeln zur Eingabe in C++
-#
+#####
 Kernzerschwingungsberechnungen, wie sie für die Berechnung des Rundlaufmodus des M.r.T angewandt werden können.
 #
+##
 #####
 #
 # nandromflash
@@ -92,10 +103,12 @@ Kernzerschwingungsberechnungen, wie sie für die Berechnung des Rundlaufmodus de
 ##
 #
 #
+##
 # :: ####   ±±±±±±±   ####
 # ::+++++####+++++####+++++####++++?::
-##### terminal
-# ::;_---------_--------_--------[4417]∆::.
+##### terminal #
+#
+# ::;_---------_--------_--------[44417]∆::.
 #
 #####
 ##
@@ -191,5 +204,7 @@ x{+-}0,5×π^2×0,5rho{+-}0,5rho=π{+-}3,19phi+3,19phi{+-}π^2{+-}π{+-}3,19phi�
 #
 ##
 #
-::
+##
+#
 print
+

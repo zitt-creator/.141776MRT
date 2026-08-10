@@ -43,7 +43,11 @@ you can type whatever you want instead Zit1 within the {} for your s u s e c-lan
 ## workstation - Dual Core 2 x 1,6 Ghz
 # Ubuntu Studio 18.04 --x64
 #
+##
+https://releases.ubuntu.com/18.04/
+##
 https://www.zotac.com/de/product/mini_pcs/ci620-nano
+##
 #
 ##
 #

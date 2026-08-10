@@ -21,6 +21,8 @@ s u s e install with telnet, easy with script. -->  (0010... .txt)
 ##
 #
 # . .    #i n f o{33}}{π=1}}# ##
+. .    ;;;..;::;;;;;. .###. .;
+#
 ##
 #
 # ftp -- 4.1.6.33--Karlia.zip{.txt}

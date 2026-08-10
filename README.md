@@ -34,7 +34,11 @@ Hauptrechenzeile: 8+5=7 1xbreak{Enter}. .
 #
 ##
 #
-# ftp -- 4.1.6.33--Karlia.zip{.txt}
+# Z.ITT -- {ftp -- 4.1.6.33--. .} Karlia.zip{.txt}. .
+##
+#
+##
+# . .
 # i n s t a l l    s u s e. .
 ^T=ca. 3d{3 Tage}
 # Zeit für volle Installation von suse Karlia ca. 3 Tage.

@@ -49,7 +49,7 @@ steps==#
 ##. .
 ##. .
 #
-- uses==actions/checkout@v4
+uses==actions/checkout@v4
 .
 #
 ##. .
@@ -64,13 +64,13 @@ steps==#
 #
 ##. .
 #
-- name==python -print
+-name==python -print
 run: echo http://github.com/zitt-creator
 ##. .
 #. .
 #
-- name==-8.8.8.8/0//0/0///8.8.8.8/0///8.8.8.8///8.8.8.8/0
-run==-localhost  Karlia  Karlia.zip  Karlia.zip.txt{.txt}. .  .zip  Karlia.exe  Karlia.zip  Karlia.zip  {.txt}  Karlia  Karlia.zip
+##{{.  {}}.  -name==-8.8.8.8/0//0/0///8.8.8.8/0///8.8.8.8///8.8.8.8/0 }}{π=1}}{
+-run==-localhost  Karlia  Karlia.zip  Karlia.zip.txt{.txt}. .  .zip  Karlia.exe  Karlia.zip  Karlia.zip  {.txt}  Karlia  Karlia.zip
 .
 ##. .
 #

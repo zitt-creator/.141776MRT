@@ -1,0 +1,85 @@
+.
+#
+##. .
+##. .
+#
+#
+##. .
+#
+##. .
+#
+name: z.ittworkflowgithubtable
+#
+#
+.
+on: python  ipconfig -U -8.8.8.8  -localhost
+#
+push: python -8.8.8.8
+branches: [ "main","code" ]
+pull_request:
+branches: [ "main" ]
+#
+#. .{.{
+workflow_dispatch. .
+python -ipconfig -8.8.8.8 -proxy  python -python  -U -localhost  -U -8.8.8.8
+.
+jobs. .{
+.
+build==python  8.8.8.8  python=8.8.8.8  python  python  [33][61][01]47][91][02][33][01][02][47][91][01][02][01]
+.
+#. .{. {π=1{}}{}.
+runs-on==ubuntu-18.04/stable
+#
+##. .
+#
+##. .
+##. .
+#
+steps==#
+#
+.
+#. .{
+##. .{}}{π=1}}
+##. .
+##. .
+#
+##. .
+##. .
+#
+##. .
+##. .
+#
+- uses==actions/checkout@v4
+.
+#
+##. .
+##. .
+#
+##. .
+##. .
+#
+#
+.{33;61;02}. .
+.
+#
+##. .
+#
+- name==python -print
+run: echo http://github.com/zitt-creator
+##. .
+#. .
+#
+- name==-8.8.8.8/0//0/0///8.8.8.8/0///8.8.8.8///8.8.8.8/0
+run==-localhost  Karlia  Karlia.zip  Karlia.zip.txt{.txt}. .  .zip  Karlia.exe  Karlia.zip  Karlia.zip  {.txt}  Karlia  Karlia.zip
+.
+##. .
+#
+#
+##. .
+##. .
+#
+##. .
+##. .
+#;
+print
+::

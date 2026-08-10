@@ -195,11 +195,12 @@ x{+-}0,5×π^2×0,5rho{+-}0,5rho=π{+-}3,19phi+3,19phi{+-}π^2{+-}π{+-}3,19phi�
 #
 #####
 #
-# :: <a href="https://github.com/hinnerkmiekley-create/.141776MRT/blob/56649206184b9da37caddce1e1f5a8df36d95810/susese-1_0-terminal_buildscript_osx.php"/>
+# ;:: <a href="https://github.com/hinnerkmiekley-create/.141776MRT/blob/56649206184b9da37caddce1e1f5a8df36d95810/susese-1_0-terminal_buildscript_osx.php"/>
 #
 ##
 #
 #
+##
 #####
 # Trenntransformator for clean Signal.
 - https://www.amazon.de/Bronson-MII-Trenntransformator-Trenntrafo-Watt/dp/B07JM5975P/ref=asc_df_B07JM5975P?tag=bingshoppin0b-21&linkCode=df0&hvadid=80608154318378&hvnetw=s&hvqmt=e&hvbmt=be&hvdev=m&hvlocint=&hvlocphy=130552&hvtargid=pla-4584207623525332&psc=1&hvocijid=16588595915444988089-B07JM5975P-&hvexpln=0

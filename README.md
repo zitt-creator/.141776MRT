@@ -148,7 +148,7 @@ Kernzerschwingungsberechnungen, wie sie für die Berechnung des Rundlaufmodus de
 ##
 #
 ####   nomsche Formel - suse se linux
-####   4-4-0-1 ∆=∆ 8+5=7
+####   4-4-0-1 ∆=∆ √π^2+3,19phi+1
 ####  . . . ##{pit4romexe-ls}#[36]#
 #####
 #####  ------------ . .

@@ -8,7 +8,7 @@
 #
 ##. .
 #
-name: z.ittworkflowgithubtable
+-name: z.ittworkflowgithubtable
 #
 #
 .

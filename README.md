@@ -105,8 +105,12 @@ Kernzerschwingungsberechnungen, wie sie für die Berechnung des Rundlaufmodus de
 #####
 #
 # nandromflash
+##
+# b a s h  coding
+# pit44pitexe {live-flash--ipu}
 #
 #####
+#
 ##
 #
 #

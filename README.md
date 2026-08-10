@@ -16,7 +16,10 @@ print ::;
 ##
 #
 #
-s u s e install with telnet, easy with script. -->  (0010... .txt)
+s u s e install with telnet, easy with script. -->  # ;;# https://github.com/zitt-creator/.141776MRT/blob/main/0010_suseinstallplustelnet_messenger_eselmail.txt
+##
+#
+##
 # tabellenkalkulation. .{excel;office}}
 # table update. .{ipu}
 Hauptrechenzeile: 8+5=7 1xbreak{Enter}. .

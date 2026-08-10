@@ -17,6 +17,9 @@ print ::;
 #
 #
 s u s e install with telnet, easy with script. -->  (0010... .txt)
+# tabellenkalkulation. .{excel;office}}
+# table update. .{ipu}
+Hauptrechenzeile: 8+5=7 1xbreak{Enter}. .
 #####
 ##
 #

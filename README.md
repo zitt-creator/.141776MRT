@@ -85,7 +85,8 @@ https://f-droid.org/packages/org.exbin.bined.editor.android/
 #
 #####
 #
-S U S E
+##
+# S U S E
 - suse Karlia CE
 DOS Os geeignet als Mrt-Steuerprogramm
 #

@@ -27,8 +27,11 @@ s u s e Karlia. . install with telnet, easy with script. -->  # ;;# https://gith
 ##
 #
 ##
+#
 s u s e  ce script. . -->
 https://github.com/zitt-creator/.141776MRT/blob/main/suse_ce_code.txt
+##
+#
 #
 # tabellenkalkulation. .{excel;office}}
 # table update. .{ipu}

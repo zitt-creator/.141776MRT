@@ -2,6 +2,8 @@
 .
 universal-port for traffic: 4020 {GSM;web...}. .
 #
+compile s u s e ce on your device for loose{Oem} install, or use telnet script for installing Karlia + eselmail over the developer-network{ibm,apple,microsoft,google. ...}.
+#
 
 print
 ::

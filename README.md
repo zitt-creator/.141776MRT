@@ -13,7 +13,7 @@ print
 print ::;
 ## Z.ITT. .{ l a p e d u s a{T€1..,;,3.6}
 {{l a p e d u s a{A.0047 / fF / a. / 0 / AUnterkopf / 0047 / 0 / a. / l a d e s / 0 / 0049 / lades / 0047 / lades / A. / lades / 0. .
-{T}} } . .{m h h  stiftung1:}. .{1.3141}. .{{π=1{}}
+{T}} } . .{m h h  stiftung1:}. .{1.3141}. .{{π=1{}} #
 ##
 ::
 print
@@ -30,20 +30,27 @@ print
 ##
 #
 #
+##
 s u s e Karlia. . install with telnet, easy with script. -->  # ;;# https://github.com/zitt-creator/.141776MRT/blob/main/0010_suseinstallplustelnet_messenger_eselmail.txt
 ##
+#####
 #
 ##
-#
+##
 s u s e  ce script. . -->
 https://github.com/zitt-creator/.141776MRT/blob/main/suse_ce_code.txt
+##
+#
+##
 ##
 info
 #####
 ;;;;;
 suse ce will need a long time to compile and start the {ipu} on the mainboard of your device.
+##
 #
 #
+##
 ##
 # tabellenkalkulation. .{excel;office}}
 # table update. .{ipu}

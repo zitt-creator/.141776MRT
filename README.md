@@ -4,15 +4,21 @@ universal-port for traffic: 4020 {GSM;web...}. .
 #
 compile s u s e ce on your device for loose{Oem} install, or use telnet script for installing Karlia + eselmail over the developer-network{ibm,apple,microsoft,google. ...}.
 #
-
+. .
 print
 ::
 # a.
 ## F1/a./
 # 0047
 print ::;
-## Z.ITT. .{ l a p e d u s a{T€1..,;,3.6}{T}} } . .{m h h  stiftung1:}. .{1.3141}. .{{π=1{}}
+## Z.ITT. .{ l a p e d u s a{T€1..,;,3.6}
+{{l a p e d u s a{A.0047 / fF / a. / 0 / AUnterkopf / 0047 / 0 / a. / l a d e s / 0 / 0049 / lades / 0047 / lades / A. / lades / 0. .
+{T}} } . .{m h h  stiftung1:}. .{1.3141}. .{{π=1{}}
 ##
+::
+print
+::
+;;;;;
 #
 # 
 #
@@ -32,20 +38,23 @@ s u s e Karlia. . install with telnet, easy with script. -->  # ;;# https://gith
 s u s e  ce script. . -->
 https://github.com/zitt-creator/.141776MRT/blob/main/suse_ce_code.txt
 ##
+info
+suse ce will need a long time to compile and start the {ipu} on the mainboard of your device.
 #
 #
+##
 # tabellenkalkulation. .{excel;office}}
 # table update. .{ipu}
 Hauptrechenzeile: 8+5=7 1xbreak{Enter}. .
 #####
-##;
-#;
-##;;
 ## ;;;:;:;;;:;:;:;;;?
 #
 # . .    #i n f o{33}}{π=1}}# ##
 . .    ;;;..;::;;;;;. .###. .;
+##
 #
+#
+##
 ##
 #
 # Z.ITT -- {ftp -- 4.1.6.33--. .} Karlia.zip{.txt}. .

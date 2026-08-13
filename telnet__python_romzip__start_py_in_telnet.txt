@@ -23,6 +23,8 @@ print
 # descripe^
 {your name} and other input is variable / not necessary.
 #
+press break{Enter} after each command line.
+#
 #
 ##
 ##

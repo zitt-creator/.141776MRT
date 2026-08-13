@@ -39,6 +39,8 @@ s u s e  ce script. . -->
 https://github.com/zitt-creator/.141776MRT/blob/main/suse_ce_code.txt
 ##
 info
+#####
+;;;;;
 suse ce will need a long time to compile and start the {ipu} on the mainboard of your device.
 #
 #

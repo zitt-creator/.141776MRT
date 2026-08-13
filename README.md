@@ -14,7 +14,8 @@ print ::;
 ## Z.ITT. .{ l a p e d u s a{T€1..,;,3.6}{T}} } . .{m h h  stiftung1:}. .{1.3141}. .{{π=1{}}
 ##
 #
-# { die Wahrheit; die ein Jeder erfährt, war und wird immer über den Spiegel vom Sodilur richten; und das Leben in der Zukunft weiterhin, konstant erzwingen{. .
+# 
+#
 ##
 #
 ##
@@ -241,6 +242,7 @@ x{+-}0,5×π^2×0,5rho{+-}0,5rho=π{+-}3,19phi+3,19phi{+-}π^2{+-}π{+-}3,19phi�
 # Trenntransformator for clean Signal.
 - https://www.amazon.de/Bronson-MII-Trenntransformator-Trenntrafo-Watt/dp/B07JM5975P/ref=asc_df_B07JM5975P?tag=bingshoppin0b-21&linkCode=df0&hvadid=80608154318378&hvnetw=s&hvqmt=e&hvbmt=be&hvdev=m&hvlocint=&hvlocphy=130552&hvtargid=pla-4584207623525332&psc=1&hvocijid=16588595915444988089-B07JM5975P-&hvexpln=0
 #
+{ die Wahrheit; die ein Jeder erfährt, war und wird immer über den Spiegel vom Sodilur richten; und das Leben in der Zukunft weiterhin, konstant erzwingen{. .
 ##
 #
 ##

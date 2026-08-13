@@ -1,0 +1,40 @@
+::
+print
+::
+;;;;;
+# telnet
+## {run python in telnet with glib and create .zip. .{.exe.zip.txt.txt.zip.txt.txt.zip.txt.exe.zip.txt.txt.zip.txt.txt.zip.txt.zip.txt.txt.zip.txt.zip.txt.txt.zip.txt.txt.zip.txt.zip.txt.txt.zip.txt.txt.zip.txt.txt.zip.txt.txt.zip.txt.txt.exe.zip.txt.txt.zip.txt.txt.zip.txt.txt.zip.txt.txt.exe.zip.txt.txt.zip.txt.txt.zip.txt}.
+## . .
+## python. .{romzip.}}
+## Z.ITT{47}}
+##
+#####
+# c o d e
+telnet rom  telnet -V rom  yourromzipfile.zip  ;  yourromzipfile.zip[33][79][47][33]  ;  yourromzipfile.zip[47]  ;  yourromzipfile.zip[33][47][91][47][02][79][47][33][47][79][33][47]  ;  yourromzipfile.zip[33][47][79][02][33][33][47][79][33][47][01][91][47][91][33][79][91][81][33][33][47][79][91][33][47][33][79][91][33][79][47][01][47][79][81][33][01][33][47][33][33][47]  ;  yourromzipfile.zip[47]  ;  yourromzipfile.zip  ;  yourromzipfile.zip    telnet rom  telnet -V localhost  telnet rom  telnet -V localhost  8.8.8.8    telnet rom  telnet -V localhost  telnet rom  telnet -V localhost  telnet rom  telnet -V localhost  8.8.8.8    telnet rom  telnet start telnet  -glib
+telnet start telnet  -glib  -glib  -glib -python    -python    -python -python    -python -python    -python
+telnet start telnet  -glib  -glib  -python -python    -python -python    -python    -glib  -glib  -python -python    -python -python    -python    -python -python    -python    -python -python    -python    -python -python    -python=π÷2
+telnet start telnet  -python -python    -python -python    -python -python    -python
+telnet start telnet  your name  ;  your name  8.8.8.8  ;  your name[33]  ;  your name  ;  your name
+telnet start telnet
+telnet start
+print
+#
+#####
+# descripe^
+{your name} and other input is variable / not necessary.
+#
+#
+##
+##
+##
+##
+##
+#
+#####
+#
+##
+#
+##
+#
+::
+print

@@ -1,5 +1,10 @@
 ##
 .
+HEX-pile console-command == .DEBB..HEX..HEX..etc..
+.DEBB..AACCEE. == c.pile{cache-compile} + cpile{loose-compile} AACCEE=01010-001=cache read/write.
+##
+##
+#
 universal-port for traffic: 4020 {GSM;web...}. .
 #
 compile s u s e ce on your device for loose{Oem} install, or use telnet script for installing Karlia + eselmail over the developer-network{ibm,apple,microsoft,google. ...}.
@@ -122,15 +127,20 @@ https://clonezilla.org/clonezilla-usage/clonezilla-live-usage.php
 https://f-droid.org/en/packages/net.stargw.fok/
 #
 #
+# . .{web code}}  Html Editor und batch Eingabekonsole für android.{type .DEBB..HEX..HEX..etc..}
+https://play.google.com/store/apps/details?id=com.qamar.ide.web
+#
+#
+##
 ## bined -- Hex editor
 https://f-droid.org/packages/org.exbin.bined.editor.android/
 ##
-#
 ##
+#
 #
 #####
-#
 ##
+#
 # S U S E
 - suse Karlia CE
 DOS Os geeignet als Mrt-Steuerprogramm

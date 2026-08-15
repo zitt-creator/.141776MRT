@@ -1,0 +1,34 @@
+::
+print
+::
+;;;;;
+# s u s e  Karlia -- network install -- roms should be included
+## Os/x
+# suse
+## Z.ITT
+#
+#####
+# c o d e
+telnet rom  telnet -V localhost  rom    telnet rom  telnet rom  telnet -U localhost  8.8.8.8  ;  8.8.8.8[33][33][47]  ;  localhost  ;  8.8.8.8  ;  8.8.8.8  ;  8.8.8.8  ;  8.8.8.8    telnet rom  telnet -V localhost  rom    telnet rom  telnet -V localhost  localhost    telnet rom  telnet -V localhost  rom    telnet rom  telnet -V localhost  telnet rom  telnet rom  telnet -V localhost  telnet rom  telnet -V localhost  Karlia[33][67][33][47][33][33][47]  ;  Karlia  ;  Karlia[33]  ;  Karlia[33][47][79][33][.txt][33][47][33][33][47][33][.txt][33][79][33][47][61][33][47][79][33][47]  ;  Karlia[33]  ;  Karlia  ;  Karlia[33]  ;  Karlia[33][47][79][33][01][33][47][01][33][01][33][61][01][33][47]  ;  Karlia  ;  Karlia  ;  Karlia[33]  ;  Karlia[47]    telnet rom  telnet -V localhost  telnet rom  telnet -V localhost  Karlia.exe.zip.txt.exe.txt.exe.txt.txt.exe.zip.txt.zip.txt.txt.zip.txt.txt.zip.txt.zip.txt.txt.zip.txt.txt.zip.txt.zip.txt.txt.exe.txt.txt.zip.txt    telnet rom  telnet start telnet  [33][33][47]
+.
+telnet start telnet
+telnet start
+print
+#
+##
+##
+# descripe^
+if the . does not work if you copy and paste, enter line for line without the point.
+#
+##
+##
+#
+#####
+#
+##
+#
+::
+;;;;;
+::
+print
+

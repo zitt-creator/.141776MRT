@@ -1,7 +1,13 @@
 ##
-.
+# info:
+just execute factory reset on your device to delete suse and kernel data. .
+#
+##
+##
+#
 HEX-pile console-command == .DEBB..HEX..HEX..etc..
 .DEBB..AACCEE. == c.pile{cache-compile} + cpile{loose-compile} AACCEE=01010-001=cache read/write.
+##
 #
 ##
 #

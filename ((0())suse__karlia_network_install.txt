@@ -19,6 +19,10 @@ print
 ##
 # descripe^
 if the . does not work if you copy and paste, enter line for line without the point.
+python.exe.zip,dice app.exe.zip and sati.exe.zip are included as romzip.
+python in Karlia is basing on python=0,5×2.
+dice app is from the android app "dice app" and calculates hex code to cache-compile in Karlia.
+sati is python based and compiles any code[47].
 #
 ##
 ##

@@ -42,12 +42,18 @@ print
 #
 #
 ##
-s u s e Karlia. . install with telnet, easy with script. -->  # ;;# https://github.com/zitt-creator/.141776MRT/blob/main/0010_suseinstallplustelnet_messenger_eselmail.txt
+s u s e  Karlia  clean {no romzips}. . install script. -->  # ;;# https://github.com/zitt-creator/.141776MRT/blob/main/0010_suseinstallplustelnet_messenger_eselmail.txt
 ##
+##
+#
 #####
 #
+s u s e  Karlia  rom {including romzips: sati;dice app;python}.{network install}. .
+#
+https://github.com/zitt-creator/.141776MRT/blob/main/((0())suse__karlia_network_install.txt
 ##
 ##
+#
 s u s e  ce script. . -->
 https://github.com/zitt-creator/.141776MRT/blob/main/suse_ce_code.txt
 ##

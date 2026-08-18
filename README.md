@@ -8,6 +8,14 @@ just execute factory reset on your device to delete suse and kernel data. .
 HEX-pile console-command == .DEBB..HEX..HEX..etc..
 .DEBB..AACCEE. == c.pile{cache-compile} + cpile{loose-compile} AACCEE=01010-001=cache read/write.
 ##
+# {T I M E}
+depending on the device you use for batch,cpile,suse;"upgrades", it executes at the possible timeframe, depending on your hardware and typed code.
+two weeks should be enough time to install the most programs.
+if you start at zero with s u s e ce, or your own creation it will take months after the first typed command, what should be the main calculation and live upgrades the hardware from this moment on.
+for example{not tested}: 
+.DEBB..DEBB.[33]..DEBB..[33][33][47][.txt][33]..DEBB..DEBB.DEBB..python=√π×3,19-3,19+0,5..DEBB..DEBB.DEBB..DEBB..DEBB.DEBB..python=rom  yourfilename.DEBB..DEBB..DEBB..DEBB..python=rom  xX.DEBB..DEBB..DEBB..DEBB.[33].
+#
+#
 #
 ##
 #

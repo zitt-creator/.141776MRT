@@ -1,0 +1,35 @@
+::
+print
+::
+;;;;;
+# {root}rom write to system // full system rom upgrade
+## Os/x
+# kernel
+## Z.ITT{47}}
+#
+#####
+# c o d e
+.DEBB..DEBB./kernel//kernel//kernel/kernel//kernel.DEBB..DEBB..DEBB..[33][61][02][33][79][47][81][61][47][.txt][33][47].DEBB..DEBB..DEBB..DEBB../kernel//kernel//kernel/.DEBB..DEBB..python=[33].DEBB..DEBB..DEBB..DEBB..python=[33].DEBB..DEBB..DEBB..python=DEBB.DEBB..DEBB./kernel//kernel//kernel//kernel//kernel/kernel//kernel//kernel/kernel//kernel//kernel//kernel/kernel/.DEBB..DEBB..DEBB..DEBB..python=DEBB..DEBB.unrealtournament.zip.DEBB..DEBB..DEBB..DEBB..DEBB..DEBB..DEBB.python=DEBB..DEBB.xX..DEBB..DEBB..xX..DEBB..DEBB..DEBB..DEBB.python=DEBB..DEBB./..DEBB..DEBB..DEBB..DEBB..[33].
+#
+##
+##
+# descripe^
+full rom-write to system.
+upgrades firmware,kernel,root rom persistent.
+it works without the unrealtournament.zip, but you have to change the code.
+compiling including the unrealtournament.zip activates the cache and the {ipu}, the 2nd processor built in the mainboard to calculate faster.
+batch should find the unrealtournament.zip anywhere on your PC.
+the upgraded system rom will be written to the kernel.
+depending on your hardware, 10 % more overall efficiency is possible.
+;;;;;
+factory reset to delete kernel data, reset zero. .
+#
+#
+##
+#
+#####
+#
+::
+;;;;;
+::
+print

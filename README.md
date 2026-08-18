@@ -25,9 +25,21 @@ for example{not tested}:
 ##
 ##
 #
+# info
 universal-port for traffic: 4020 {GSM;web...}. .
 #
 compile s u s e ce on your device for loose{Oem} install, or use telnet script for installing Karlia + eselmail over the developer-network{ibm,apple,microsoft,google. ...}.
+#
+##
+#
+# info
+the telnet messenger, which i named eselmail on my end is usable for the connection of your name/person and your property, that has rom.
+if you are correctly registered in your country, eselmail should, even if it is installed just one on one single device, connect "the money"; your money to your property and name.
+no guarantees, it is a short line of code, that should work anyway for all others on the planet, once it`s online and registered. 
+eselmail is only available from z.itt himself, as long the problem of getting the systemrom to the hdd still exists, but since notepad got upgraded, there is a chance to write an .exe next to the .txt script in the same folder.
+#
+##
+##
 #
 . .
 print

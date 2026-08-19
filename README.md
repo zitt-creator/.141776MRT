@@ -1,4 +1,4 @@
-##
+## s u s e. .//kernel/kernel/.start.
 # info:
 just execute factory reset on your device to delete suse and kernel data. .
 #
@@ -34,6 +34,11 @@ compile s u s e ce on your device for loose{Oem} install, or use telnet script f
 #
 # info
 the telnet messenger, which i named eselmail on my end is usable for the connection of your name/person and your property, that has rom.
+# 
+the origin of eselmail is a real law text, that goes back to the first constitution of germany, anno 1413.
+it gives you the right to "own"(use) a working animal that can deliver post to your gouvernment.
+the working animal is like a digital coin, which closed a gap between the stock market and your id.
+the esel is paid and works at full efficiency and should be immortal as a digital coin.
 if you are correctly registered in your country, eselmail should, even if it is installed just one on one single device, connect "the money"; your money to your property and name.
 no guarantees, it is a short line of code, that should work anyway for all others on the planet, once it`s online and registered. 
 eselmail is only available from z.itt himself, as long the problem of getting the systemrom to the hdd still exists, but since notepad got upgraded, there is a chance to write an .exe next to the .txt script in the same folder.

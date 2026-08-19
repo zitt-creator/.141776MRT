@@ -167,6 +167,7 @@ ask Bill for the command to Enter, he build it;it exists.
 # playhex app -- board game development
 https://f-droid.org/packages/org.playhex.twa/
 #
+https://github.com/playhex/playhex
 #
 ## genymobile -- github
 # tcp/ip smartphone to TV -- scrcpy

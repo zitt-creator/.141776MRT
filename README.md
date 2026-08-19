@@ -46,8 +46,7 @@ compile s u s e ce on your device for loose{Oem} install, or use telnet script f
 #
 ##
 #
-# info
-
+#
 #
 ##
 ##
@@ -163,6 +162,11 @@ https://www.zotac.com/de/product/mini_pcs/ci620-nano
 ask Bill for the command to Enter, he build it;it exists.
 #
 ##
+#
+#
+# playhex app -- board game development
+https://f-droid.org/packages/org.playhex.twa/
+#
 #
 ## genymobile -- github
 # tcp/ip smartphone to TV -- scrcpy

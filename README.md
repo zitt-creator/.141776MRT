@@ -4,6 +4,14 @@ just execute factory reset on your device to delete suse and kernel data. .
 #
 ##
 ##
+#
+#
+# Z.ITT -- {ftp -- 4.1.6.33(10.6.6.6)--. .} Karlia.zip{.txt}. .
+#
+##
+##
+#
+#
 # info
 the telnet messenger, which i named eselmail on my end is usable for the connection of your name/person and your property, that has rom.
 # 
@@ -119,7 +127,6 @@ Hauptrechenzeile: 8+5=7 1xbreak{Enter}. .
 ##
 ##
 #
-# Z.ITT -- {ftp -- 4.1.6.33--. .} Karlia.zip{.txt}. .
 ##
 #
 ##

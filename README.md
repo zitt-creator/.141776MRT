@@ -6,7 +6,7 @@ just execute factory reset on your device to delete suse and kernel data. .
 ##
 #
 #
-# Z.ITT -- {ftp -- 4.1.6.33(10.6.6.6)--. .} Karlia.zip{.txt}. .
+# Z.ITT -- {ftp -- telefonica^¢--4.1.6.33(zitt apacheone" 10.6.6.6)--. .} Karlia.zip{.txt}. .
 #
 ##
 ##

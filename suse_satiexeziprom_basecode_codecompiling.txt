@@ -35,6 +35,8 @@ HEX || (0,5-1)+(√6+1-1+2+1÷(6-1))-(1+2)
 # create basecode, example:
 telnet rom  telnet rom  telnet -python=5+7    telnet rom  telnet rom  telnet rom  telnet -python=python=[33][47][.txt][33]    telnet rom  telnet -python=python=.debb..debb..python=/kernel/kernel/romzip.exe.zip..debb..debb..debb.
 #
+# descripe^
+rename romzip.exe.zip at your needs.
 ##
 ##
 ##

@@ -1,0 +1,46 @@
+::
+print
+::
+;;;;;
+# code c.pile compile
+## Os/x
+# sati.exe.zip  rom 
+## Z.ITT{47}}
+#
+#####
+# c o d e
+sati
+any typed code
+kernel compile
+[47] cache-compile -- c.pile(bash)
+#
+##
+##
+##
+# calculation
+0,5-(√2+1-1÷2+1)+(0,5+1)
+#
+HEX 6+1 == HEX||1=0
+#
+code hex || 6=1||1=0
+#
+HEX || (0,5-1)+(√6+1-1+2+1÷(6-1))-(1+2)
+#
+# sati.exe.zip rom  c o d e
+0,5+(√6+1+1+1÷2+(1-1))-(1-2)
+#
+##
+##
+##
+# create basecode, example:
+telnet rom  telnet rom  telnet -python=5+7    telnet rom  telnet rom  telnet rom  telnet -python=python=[33][47][.txt][33]    telnet rom  telnet -python=python=.debb..debb..python=/kernel/kernel/romzip.exe.zip..debb..debb..debb.
+#
+##
+##
+##
+#
+::
+;;;;;
+::
+print
+

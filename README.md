@@ -1,4 +1,5 @@
 ## s u s e. .//kernel/kernel/.start.
+anno{updated last} 21.0008.026 -- 12:00 sulu. .{
 # info:
 just execute factory reset on your device to delete suse and kernel data. .
 #

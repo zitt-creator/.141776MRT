@@ -1,0 +1,31 @@
+::
+print
+::
+;;;;;
+# kernel coding  romzip {playhex(from the android app "playhex")}
+## Os/x
+# kernel[47] -- cache-compile coding
+## Z.ITT{47}}
+#
+#####
+# c o d e
+playhex
+kernel coding
+cache-compile coding  [47]
+#
+playhex--->python--->python--->playhex--->typed code--->python--->compiling
+#
+hex6+1 || HEX6+1||2+1 || HEX6+1||2+1+1
+HEX || 1=0
+HEX || hex6+1+1||hex6+1=2+1 || HEX || 2+1=0hex
+#
+##
+# brute force kernel compiling c o d e{basecode}
+python=π÷2
+##
+#
+::
+;;;;;
+::
+print
+

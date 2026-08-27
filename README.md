@@ -1,3 +1,6 @@
+#
+if you don't want to use suse Karlia, build your own suse with the suse ce  script. .
+#
 ## s u s e. .//kernel/kernel/.start.
 anno{updated last} 27.0008.026 -- 12:00 sulu. .{
 # info:

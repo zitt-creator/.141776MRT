@@ -1,11 +1,11 @@
 #
 if you don't want to use suse Karlia, build and create your own suse with the suse ce  script. .
-#
+#  ;;;;;
 ## s u s e. .//kernel/kernel/.start.
 anno{updated last} 27.0008.026 -- 12:00 sulu. .{
-# info:
+# info: ;;;;;
 just execute factory reset on your device to delete suse and kernel data. .
-#
+#  ;;;;;
 since i got no message from the gouvernment, or other institutes like fraunhofer, where suse Karlia should be tested and administrated with all the other network users in the internet, who have installed Karlia; i hope someone will do the work in a civilian way and makes it with his/her real papers and identity to host it as well. .
 to host it on your pc/smartphone you have to find the right telnet command code that registers your name at world science institutes like fraunhofer, where we all should be registered for data upgrades and code backups. .
 the no. of ways to really connect your device to the ultranet{all cables on earth} are next to infinite possibilities, because of data-fs, fax line; which is just the neutral line next to the green-yellow grounding line.

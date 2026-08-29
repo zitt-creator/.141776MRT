@@ -2,7 +2,7 @@
 if you don't want to use suse Karlia, build and create your own suse with the suse ce  script. .
 #  ;;;;;
 ## s u s e. .//kernel/kernel/.start.
-anno{updated last} 27.0008.026 -- 12:00 sulu. .{
+anno{updated last} 29.0008.026 -- 12:00 sulu. .{
 # info: ;;;;;
 just execute factory reset on your device to delete suse and kernel data. .
 #  ;;;;;
@@ -20,16 +20,10 @@ good luck.
 #
 ##
 ##
-# i n f o
-g o o g l e  gemini ai {spracherkennung}. .
-save .zip in the notes section of gemini with at least two .txt files.
-txt no.1: just a single .{point}. .
-txt no.2: follow the instructions in gemini + it works good with 5 semikolon's after each line, excluding the last.
-# i m p o r t a n t  info for using google gemini with all functions and voices activated. .
-the output will and can be really wrong and has nothing to do with real and official information.
-especially in the beginning gemini will answer unreal things, but it is possible to train the ai in the google cloud.
+;;;;;
 #
-https://gemini.google.com/
+gemini..  . .
+#
 #
 # info
 the telnet messenger, which i named eselmail on my end is usable for the connection of your name/person and your property, that has rom.

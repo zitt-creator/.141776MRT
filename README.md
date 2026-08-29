@@ -22,7 +22,7 @@ good luck.
 ##
 ;;;;;
 #
-gemini..  . .
+.  . .
 #
 #
 # info

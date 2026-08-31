@@ -187,40 +187,59 @@ https://www.zotac.com/de/product/mini_pcs/ci620-nano
 #
 # Microsoft Windows eversince -- HEX-Editor/cmd
 ask Bill for the command to Enter, he build it;it exists.
+##
+##
+# apache webserver
+https://github.com/apache
+#
 #
 ##
+# termux {android} terminal emulator(Os level)
+https://github.com/termux/termux-app
 #
+#
+##
 #
 # playhex app -- board game development
 https://f-droid.org/packages/org.playhex.twa/
 #
 https://github.com/playhex/playhex
+##
 #
-## genymobile -- github
+#
+##
+##
+# genymobile -- github
 # tcp/ip smartphone to TV -- scrcpy
 https://github.com/Genymobile/scrcpy
+##
 #
 #####
+#
 # clonezilla live {backup full HDD;work with apache web server}
 https://clonezilla.org/clonezilla-usage/clonezilla-live-usage.php
+##
+#
 #
 # dummy vpn android {port reselection / udp}
 https://f-droid.org/en/packages/net.stargw.fok/
+##
 #
 #
 # . .{web code}}  Html Editor und batch Eingabekonsole für android.{type .DEBB..HEX..HEX..etc..}
 https://play.google.com/store/apps/details?id=com.qamar.ide.web
+##
 #
 #
 ##
 ## bined -- Hex editor
 https://f-droid.org/packages/org.exbin.bined.editor.android/
-##
-##
 #
+#
+##
 #
 #####
-##
+#
 #
 # S U S E
 - suse Karlia CE
@@ -228,7 +247,7 @@ DOS Os geeignet als Mrt-Steuerprogramm
 #
 - suse Karlia UbuntuUt linux -ls
 DOS Os durch Ubuntu script und unrealtournament.zip zum read/write von HDD fähig.
-##
+#
 #
 ##
 #

@@ -1,6 +1,10 @@
 ::
 #  .debb.={exe}cute
 # .{punktus}={(rom)} Enter
+## ;;;;;
+## ())
+#####
+####
 # ; ; i bet 10€ that bill gates81 has to replug his usb ports every t w o days. ..  . .
 if you don't want to use suse Karlia, build and create your own suse with the suse ce  script. .
 #  ;;;;;

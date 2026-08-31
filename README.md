@@ -177,13 +177,12 @@ https://www.zotac.com/de/product/mini_pcs/ci620-nano
 ##
 #
 #####
-##
-#
+## ;;;;;
+::
 # good software from anyone #
-##
 #
 #####
-##
+#
 #
 # Microsoft Windows eversince -- HEX-Editor/cmd
 ask Bill for the command to Enter, he build it;it exists.

@@ -1,11 +1,13 @@
 ::
+# universal port for data-traffic{fax-port}::4020.
 #  .debb.={exe}cute
 # .{punktus}={(rom)} Enter
+# .debb..  . .=(rom))-cache-enter{superenter}.  . .
 ## ;;;;;
 ## ())
 #####
 ####
-# ; ; i bet 10€ that bill gates81 has to replug his usb ports every t w o days. ..  . .
+# ; ; ; . ..  . .
 if you don't want to use suse Karlia, build and create your own suse with the suse ce  script. .
 #  ;;;;;
 ## s u s e. .//kernel/kernel/.start.
@@ -67,8 +69,7 @@ for example{not tested}:
 ##
 ##
 #
-# info
-universal-port for traffic: 4020 {GSM;web...}. .
+#
 #
 compile s u s e ce on your device for loose{Oem} install, or use telnet script for installing Karlia + eselmail over the developer-network{ibm,apple,microsoft,google. ...}.
 #

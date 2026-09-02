@@ -1,4 +1,5 @@
 ::
+# latest::s u s e  Karlia 1.8-ls
 # universal port for data-traffic{fax-port}::4020.
 #  .debb.={exe}cute
 # .{punktus}={(rom)} Enter
@@ -21,7 +22,7 @@ the no. of ways to really connect your device to the ultranet{all cables on eart
 data-fs is also etron. , the data system of earth.
 #
 good luck.
-##
+## update::as long i have to host it by myself, it would be wise, if you want to keep it, to put away an older device with Karlia installed, because Kobata is not immortal;yet.
 ##
 #
 #

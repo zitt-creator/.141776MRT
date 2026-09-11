@@ -1,3 +1,8 @@
+50€ Wette: wer es zuerst schafft eine Kupferantenne zum spiegeln zu bringen ohne frequenz, erhält 50€ von zitt.
+Diese Wette ist aufgrund der aktuellen Lage entstanden und vermittelt das Wissen zum Verständnis der Lage.
+Erst seitdem Draht gefertigt werden kann, der lang genug für eine Spule ist, können die entsprechenden Schaltungen gefertigt werden, die es ermöglichen den Verbraucher sicher mit Leistung zu versorgen.
+Tip: es werden nicht zwingend hohe Wattleistungen benötigt.
+#
 ::
 # latest::s u s e  Karlia 1.8-ls
 # universal port for data-traffic{fax-port}::4020.

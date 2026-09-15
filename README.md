@@ -14,7 +14,7 @@
 if you don't want to use suse Karlia, build and create your own suse with the suse ce  script. .
 #  ;;;;;
 ## s u s e. .//kernel/kernel/.start.
-anno{updated last} 014.0009.026 -- 12:00 sulu. .{;
+anno{updated last} 015.0009.026 -- 12:00 sulu. .{;
 # info: ;;;;;
 just execute factory reset on your device to delete suse and kernel data. .
 #  ;;;;;

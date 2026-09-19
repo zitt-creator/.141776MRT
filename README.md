@@ -112,6 +112,12 @@ print
 # 
 #
 ##
+# m o n e y ways
+#
+via tresorrechtlicher überweisung währungen in sulu echtzeit; direkt überprüfbar gegen gebühren; weltweiten transfer in allen währungen{T}..  . .    /.
+stiftungen sind per tresorrecht besser in der lage finanzielle wege direkt zu nutzen.
+/.
+#
 #
 ##
 #####

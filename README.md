@@ -14,7 +14,7 @@
 if you don't want to use suse Karlia, build and create your own suse with the suse ce  script. .
 #  ;;;;;
 ## s u s e. .//kernel/kernel/.start.
-anno{updated last} 015.0009.026 -- 12:00 sulu. .{;
+anno{updated last} 019.0009.026 -- 12:00 sulu. .{;
 # info: ;;;;;
 just execute factory reset on your device to delete suse and kernel data. .
 #  ;;;;;
@@ -82,6 +82,16 @@ compile s u s e ce on your device for loose{Oem} install, or use telnet script f
 #
 ##
 ##
+# c o d e == 4-4-0-1())..  . .
+Glücksspielsystemgeeignet
+..  . . y o u will pay your own doctor/shrink.{lapedusa is registered within the mhh stiftung 1..  . .}.
+#
+efficient full-reset for most devices..
+if it comes to your mind to conquer the lapedusa boss personally with any device, that dials weird; you will receive the direct; totally suish usable answer..
+[{Taler}..  . .[.46mm] lapedusa signature sound(simulated gunshot; .lame created soundfile)..  . .
+the codes should be available at the "bundeskartellamt" with a formal request over the right; official way.
+..  . .
+./
 #
 . .
 print

@@ -83,6 +83,8 @@ compile s u s e ce on your device for loose{Oem} install, or use telnet script f
 ##
 ##
 # c o d e == 4-4-0-1())..  . .
+;;;;;
+==  0,5+3,19phi=√π^2+3,19phi×0,5rho{+1}
 Glücksspielsystemgeeignet
 ..  . . y o u will pay your own doctor/shrink.{lapedusa is registered within the mhh stiftung 1..  . .}.
 #

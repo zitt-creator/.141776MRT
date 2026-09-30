@@ -395,8 +395,9 @@ x{+-}0,5×π^2×0,5rho{+-}0,5rho=π{+-}3,19phi+3,19phi{+-}π^2{+-}π{+-}3,19phi�
 ##
 #
 print
-50€ Wette: wer es zuerst schafft eine Kupferantenne etwa 2cm über der materialoberfläche zum spiegeln zu bringen ohne frequenz, erhält 50€ von zitt.
-Diese Wette ist aufgrund der aktuellen Lage entstanden und vermittelt das Wissen zum Verständnis der Lage.
+50€ Wette: wer es zuerst schafft eine Kupferantenne etwa 2cm über der materialoberfläche zum spiegeln zu bringen; ohne frequenz, erhält 50€ von zitt.
+;;;;;
+#
 Erst seitdem Draht gefertigt werden kann, der lang genug für eine Spule ist, können die entsprechenden Schaltungen gefertigt werden, die es ermöglichen den Verbraucher sicher mit Leistung zu versorgen.
 Tip: es werden nicht zwingend hohe Wattleistungen benötigt.
 ::

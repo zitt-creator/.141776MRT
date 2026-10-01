@@ -405,4 +405,10 @@ Tip: es werden nicht zwingend hohe Wattleistungen benötigt.
 ::
 ;;;;;  ;  ;  ;;  .
 .
-
+;;;;;
+/.    /.
+#
+##
+##  ;;;;;lades  d u t o..  . ##  ;;;;;.///polo.agopolo..  . .
+##/.
+.

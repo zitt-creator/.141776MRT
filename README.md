@@ -1,18 +1,30 @@
+::
+# s u s e  Karlia-ls
+##
+##
+# Z.ITT[47]]
+#####
+#
+;;;;;    ///.    [47][47][47][47][hubble]..  . .debb..debb..[[..debb())]
 ;;;;;;  ;;;;;
 #
 ::
 # latest::s u s e  Karlia 1.8-ls
+;;;;;
+# n o t e s
+##
+##
 # universal port for data-traffic{fax-port}::4020.
 #  .debb.={exe}cute
 # .{punktus}={(rom)} Enter
 # .debb..  . .=(rom))-cache-enter{superenter}.  . .
 ## ;;;;;
-## ())
+##
 #####
 ####
 # ; ; ; . ..  . .
 if you don't want to use suse Karlia, build and create your own suse with the suse ce  script. .
-#  ;;;;;
+#  ;;;;; n o t e s
 ## s u s e. .//kernel/kernel/.start.
 anno{updated last} 030.0009.026 -- 12:00 sulu. .{;
 # info: ;;;;;
@@ -28,6 +40,8 @@ good luck.
 ##
 #
 #
+##
+## n o t e s
 # Z.ITT -- {ftp -- telefonica^¢--4.1.6.33(zitt apacheone" 10.6.6.6)--. .} Karlia.zip{.txt}. .
 #
 ##

@@ -15,6 +15,29 @@
 ##
 ##
 # universal port for data-traffic{fax-port}::4020.
+##
+##
+#
+##
+##
+#
+# [hubble] telefonica^ line bash-script(experimental))..  . .
+#
+useful for telnet and apache connections(fax))..  . .
+#
+dial once with local device to add this connection to your telnet phonebook..  . .
+#
+dialing sequence::
+#
+telnet rom  telnet rom  telnet rom  telnet rom  telnet rom  telnet rom  telnet rom  telnet 0000  ;  0000  ;  0000  ;  0000  ;  [hubble]  ;  0000  ;  0000    telnet rom  telnet rom  telnet rom  telnet rom  telnet rom  telnet rom  telnet rom  telnet 0000  ;  0000  ;  0000  ;  0000  ;  0000  ;  0000    telnet rom    telnet start telnet    telnet start telnet  [47][47][33][33][47]    telnet start telnet    telnet start
+type break{enter}
+print
+type break{enter}
+##
+##
+#
+#####
+# n o t e
 #  .debb.={exe}cute
 # .{punktus}={(rom)} Enter
 # .debb..  . .=(rom))-cache-enter{superenter}.  . .

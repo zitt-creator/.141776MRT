@@ -53,13 +53,7 @@ if you don't want to use suse Karlia, build and create your own suse with the su
 # info: ;;;;;
 just execute factory reset on your device to delete suse and kernel data. .
 #  ;;;;;
-since i got no message from the gouvernment, or other institutes like fraunhofer, where suse Karlia should be tested and administrated with all the other network users in the internet, who have installed Karlia; i hope someone will do the work in a civilian way and makes it with his/her real papers and identity to host it as well. .
-to host it on your pc/smartphone you have to find the right telnet command code that registers your name at world science institutes like fraunhofer, where we all should be registered for data upgrades and code backups. .
-the no. of ways to really connect your device to the ultranet{all cables on earth} are next to infinite possibilities, because of data-fs, fax line; which is just the neutral line next to the green-yellow grounding line.
-data-fs is also etron. , the data system of earth.
-#
-good luck.
-## update::as long i have to host it by myself, it would be wise, if you want to keep it, to put away an older device with Karlia installed, because Kobata is not immortal;yet.
+##
 ##
 #
 #
@@ -85,6 +79,9 @@ type break{enter}
 ##
 #
 #####
+#
+##
+##
 #
 ;;;;;
 #
@@ -188,13 +185,13 @@ s u s e  Karlia  clean {no romzips}. . install script. -->  # ;;# https://github
 #
 #####
 #
-s u s e  Karlia  rom {including systemD capable romzips: sati;dice app;python}.{network install}. .
+s u s e  Karlia system - rom {including systemD capable romzips: sati;dice app;python}.{network install}. .
 #
 https://github.com/zitt-creator/.141776MRT/blob/main/((0())suse__karlia_network_install.txt
 ##
 ##
 #
-s u s e  ce script. . -->
+s u s e  ce script{loose code install from zero on/from local hardware of the s u s e capable device}. . -->
 https://github.com/zitt-creator/.141776MRT/blob/main/suse_ce_code.txt
 ##
 #

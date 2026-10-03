@@ -1,4 +1,5 @@
-::
+::    ## s u s e. .//kernel/kernel/.start.
+anno{updated last} 0003.0010.026 -- 12:00 sulu. .{;    ;    ##
 # s u s e  Karlia-ls
 ##
 ##
@@ -48,8 +49,7 @@ type break{enter}
 # ; ; ; . ..  . .
 if you don't want to use suse Karlia, build and create your own suse with the suse ce  script. .
 #  ;;;;; n o t e s
-## s u s e. .//kernel/kernel/.start.
-anno{updated last} 0002.0010.026 -- 12:00 sulu. .{;
+
 # info: ;;;;;
 just execute factory reset on your device to delete suse and kernel data. .
 #  ;;;;;
@@ -171,7 +171,7 @@ s u s e  Karlia  clean {no romzips}. . install script. -->  # ;;# https://github
 #
 #####
 #
-s u s e  Karlia  rom {including romzips: sati;dice app;python}.{network install}. .
+s u s e  Karlia  rom {including systemD capable romzips: sati;dice app;python}.{network install}. .
 #
 https://github.com/zitt-creator/.141776MRT/blob/main/((0())suse__karlia_network_install.txt
 ##
@@ -183,8 +183,8 @@ https://github.com/zitt-creator/.141776MRT/blob/main/suse_ce_code.txt
 #
 ##
 ##
-info
 #####
+#
 ;;;;;
 suse ce will need a long time to compile and start the {ipu} on the mainboard of your device.
 ##

@@ -72,6 +72,7 @@ good luck.
 # s u s e Karlia-ls systemD kernel download script{-full prototype systemD level kernel}}..  . .{experimental-script; no guarantees}
 (with extra id-connection via name of the inventor over telnet))..  . .
 /.
+# c o d e
 telnet rom  telnet rom  telnet 0000  ;  0000    telnet rom  telnet rom  telnet rom  telnet 0000    telnet rom  telnet rom  telnet Karlia.exe.zip  ;  Karlia.exe.zip  ;  Karlia  ;  Karlia  ;  Karlia.exe.zip  ;  Karlia.exe.zip  ;  Karlia[33]  ;  Karlia  ;  Karlia[33][47][33][33][47]  ;  Karlia  ;  Karlia    telnet rom  telnet rom  telnet rom  telnet rom  telnet rom  telnet 0000[hubble]    telnet rom  telnet rom  telnet rom  telnet rom  telnet rom  telnet 0000    telnet rom  telnet rom  telnet rom  telnet localhost    telnet rom  telnet rom  telnet rom  telnet 0000[hubble]    telnet rom  telnet rom  telnet rom  telnet start telnet    telnet start telnet    telnet start telnet  [33]    telnet start telnet  hinnerk miekley  ;  hinnerk miekley  ;  hinnerk miekley  ;  hinnerk miekley  ;  hinnerk miekley  ;  hinnerk miekley    telnet start telnet    telnet start telnet  [33][33][47]    telnet start telnet    telnet start telnet    telnet start
 type break{enter}
 print

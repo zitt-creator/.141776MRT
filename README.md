@@ -330,7 +330,7 @@ Kernzerschwingungsberechnungen, wie sie für die Berechnung des Rundlaufmodus de
 #
 ##
 #####
-#
+# n o t e s"
 # nandromflash
 ##
 # b a s h  coding

@@ -1,5 +1,5 @@
 ::    ## s u s e. .//kernel/kernel/.start.
-anno{updated last} 0003.0010.026 -- 12:00 sulu. .{;    ;    ##
+anno{updated last} 0007.0010.026 -- 12:00 sulu. .{;    ;    ##
 # s u s e  Karlia-ls
 ##
 ##

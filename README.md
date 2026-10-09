@@ -1,18 +1,34 @@
 ::    ## s u s e. .//kernel/kernel/.start.
-anno{updated last} 0007.0010.026 -- 12:00 sulu. .{;    ;    ##
+anno{updated last} 0009.0010.026 -- 12:00 sulu. .{;    ;    ##
+##
+##
+# s u s e [loose hardware cache-recompile operating system]]..  . .
+##
+##
 # s u s e  Karlia-ls
 ##
 ##
 # Z.ITT[47]]
 #####
+# python c o d e [47]
+# 0,5+3,19phi=√π^2-3,19+π÷π-3,19phi+0,5rho-3,19phi
+##
+##
+# info: ;;;;;
+just execute factory reset on your device to delete suse and kernel data. .
+##
+##
 #
+# n o t e
 ;;;;;    ///.    [47][47][47][47][hubble]..  . .debb..debb..[[..debb())]
 ;;;;;;  ;;;;;
+##
+##
 #
 ::
 # latest::s u s e  Karlia 1.8-ls
 ;;;;;
-# n o t e s
+# n o t e
 ##
 ##
 # universal port for data-traffic{fax-port}::4020.
@@ -48,17 +64,14 @@ type break{enter}
 ####
 # ; ; ; . ..  . .
 if you don't want to use suse Karlia, build and create your own suse with the suse ce  script. .
-#  ;;;;; n o t e s
-
-# info: ;;;;;
-just execute factory reset on your device to delete suse and kernel data. .
+#  ;;;;; n o t e
 #  ;;;;;
 ##
 ##
 #
 #
 ##
-## n o t e s
+## n o t e
 # Z.ITT -- {ftp -- telefonica^¢--4.1.6.33(zitt apacheone" 10.6.6.6)--. .} Karlia.zip{.txt}. .
 #
 ##
@@ -123,8 +136,11 @@ for example{not tested}:
 ##
 ##
 #
+#####
+##
+##
 #
-#
+# n o t e
 compile s u s e ce on your device for loose{Oem} install, or use telnet script for installing Karlia + eselmail over the developer-network{ibm,apple,microsoft,google. ...}.
 #
 ##
@@ -165,11 +181,6 @@ print
 # 
 #
 ##
-# m o n e y ways
-#
-via tresorrechtlicher überweisung währungen in sulu echtzeit; direkt überprüfbar gegen gebühren; weltweiten transfer in allen währungen{T}..  . .    /.
-stiftungen sind per tresorrecht besser in der lage finanzielle wege direkt zu nutzen.
-/.
 #
 #
 ##
@@ -436,9 +447,20 @@ x{+-}0,5×π^2×0,5rho{+-}0,5rho=π{+-}3,19phi+3,19phi{+-}π^2{+-}π{+-}3,19phi�
 #
 ##
 #
-#
+##
 ##
 #####
+#
+##
+##
+#
+#####
+#
+# m o n e y ways
+#
+via tresorrechtlicher überweisung währungen in sulu echtzeit; direkt überprüfbar gegen gebühren; weltweiten transfer in allen währungen{T}..  . .    /.
+stiftungen sind per tresorrecht besser in der lage finanzielle wege direkt zu nutzen.
+/.
 # Trenntransformator for clean Signal.
 - https://www.amazon.de/Bronson-MII-Trenntransformator-Trenntrafo-Watt/dp/B07JM5975P/ref=asc_df_B07JM5975P?tag=bingshoppin0b-21&linkCode=df0&hvadid=80608154318378&hvnetw=s&hvqmt=e&hvbmt=be&hvdev=m&hvlocint=&hvlocphy=130552&hvtargid=pla-4584207623525332&psc=1&hvocijid=16588595915444988089-B07JM5975P-&hvexpln=0
 #

@@ -11,7 +11,7 @@ anno{updated last} 0009.0010.026 -- 12:00 sulu. .{;    ;    ##
 # Z.ITT[47]]
 #####
 # python c o d e [47]
-# 0,5+3,19phi=√π^2-3,19+π÷π-3,19phi+0,5rho-3,19phi
+# 0,5+3,19phi=√π^2-3,19phi+π÷π-3,19phi+0,5rho-3,19phi
 ##
 ##
 # info: ;;;;;

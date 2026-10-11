@@ -1,5 +1,5 @@
 ::    ## s u s e. .//kernel/kernel/.start.
-anno{updated last} 0009.0010.026 -- 12:00 sulu. .{;    ;    ##
+anno{updated last} 0011.0010.026 -- 12:00 sulu. .{;    ;    ##
 ##
 ##
 # s u s e [loose hardware cache-recompile operating system]]..  . .
@@ -76,7 +76,9 @@ if you don't want to use suse Karlia, build and create your own suse with the su
 #
 ##
 ##
-# s u s e Karlia-ls systemD kernel download script{-full prototype systemD level kernel}}..  . .{experimental-script; no guarantees}
+# s u s e Karlia-ls systemD kernel download script{-full prototype systemD level kernel. the other script for suse Karlia will only use your local hardware with the downloaded short hex-code}}..  . .
+the full code should give real dos environments more functions..  . .
+{experimental-script; no guarantees}
 (with extra id-connection via name of the inventor over telnet))..  . .
 ##
 ##

@@ -1,5 +1,5 @@
 ::    ## s u s e. .//kernel/kernel/.start.
-anno{updated last} 0011.0010.026 -- 12:00 sulu. .{;    ;    ##
+anno{updated last} 0012.0010.026 -- 12:00 sulu. .{;    ;    ##
 ##
 ##
 # s u s e [loose hardware cache-recompile operating system]]..  . .
@@ -117,10 +117,12 @@ eselmail is only available from z.itt himself, as long the problem of getting th
 ##
 ##
 #
-# info
+# n o t e
 HEX-pile console-command == .DEBB..HEX..HEX..etc..
 .DEBB..AACCEE. == c.pile{cache-compile} + cpile{loose-compile} AACCEE=01010-001=cache read/write.
 ##
+##
+#
 # {T I M E}
 depending on the device you use for batch,cpile,suse;"upgrades", it executes at the possible timeframe, depending on your hardware and typed code.
 two weeks should be enough time to install the most programs.
@@ -219,22 +221,16 @@ suse ce will need a long time to compile and start the {ipu} on the mainboard of
 #
 ##
 ##
+# n o t e
 # tabellenkalkulation. .{excel;office}}
 # table update. .{ipu}
 Hauptrechenzeile: 8+5=7 1xbreak{Enter}. .
 #####
-## ;;;:;:;;;:;:;:;;;?
-#
-# . .    #i n f o{33}}{π=1}}# ##
-. .    ;;;..;::;;;;;. .###. .;
-##
-#
-#
 ##
 ##
 #
+#####
 ##
-#
 ##
 # . .
 # i n s t a l l    s u s e. .
@@ -247,10 +243,13 @@ Hauptrechenzeile: 8+5=7 1xbreak{Enter}. .
 commands within the {} mostly ignored, if they are wrong.
 you can type whatever you want instead Zit1 within the {} for your s u s e c-language -- monitor clanguage name and you can change from Zit1 to y o u r clanguage name also later in suse.
 . 2xbreak  //kernel/  1xbreak  //kernel//kernel/  1xbreak  fdisk -V rom  fdisk -V rom  telnet rom  1xbreak  .  2xbreak  telnet rom  telnet -U rom  telnet rom  1xbreak  .  2xbreak  telnet rom  telnet rom  telnet -V rom  telnet rom  telnet -V rom  telnet rom  telnet rom  telnet rom  1xbreak  .  2xbreak  python  python=π÷2    python  python    telnet rom  telnet -V rom  telnet rom  1xbreak  .  2xbreak  python=π÷2    telnet rom  telnet rom  python  python=π÷2    telnet rom  telnet rom  python=π÷2    telnet rom  telnet rom  1xbreak  .  2xbreak  python=π÷2    telnet rom  telnet start telnet  1xbreak  .  2xbreak  telnet rom  telnet -V rom  telnet -V rom  telnet rom  telnet start telnet  1xbreak  .  2xbreak  telnet rom  telnet -U rom  telnet -V rom  telnet -V rom  telnet rom  telnet -V rom  telnet -V rom  telnet rom  telnet rom  telnet -V rom  telnet rom  telnet -V rom  telnet rom  telnet start telnet  1xbreak  .  2xbreak  telnet rom  {yourclanguagemonitorlanguagename}    telnet rom  telnet start telnet  1xbreak  .  1xbreak to verify the print {wait 10 seconds after break}.
-#
 ##
-#####
+##
 #
+#####
+##
+##
+# n o t e
 ## workstation - Dual Core 2 x 1,6 Ghz
 # Ubuntu Studio 18.04 --x64
 #
@@ -259,16 +258,17 @@ https://releases.ubuntu.com/18.04/
 ##
 https://www.zotac.com/de/product/mini_pcs/ci620-nano
 ##
-#
 ##
 #
 #####
 ## ;;;;;
-::
+##
+#
 # good software from anyone #
 #
 #####
-#
+##
+##
 #
 # Microsoft Windows eversince -- HEX-Editor/cmd
 ask Bill for the command to Enter, he build it;it exists.
@@ -276,85 +276,55 @@ ask Bill for the command to Enter, he build it;it exists.
 ##
 # apache webserver
 https://github.com/apache
-#
-#
 ##
+##
+#
 # termux {android} terminal emulator(Os level)
 https://github.com/termux/termux-app
-#
-#
 ##
+##
+#
 #
 # playhex app -- board game development
 https://f-droid.org/packages/org.playhex.twa/
+##
+##
 #
 https://github.com/playhex/playhex
 ##
-#
-#
 ##
-##
+#
 # genymobile -- github
 # tcp/ip smartphone to TV -- scrcpy
 https://github.com/Genymobile/scrcpy
 ##
-#
-#####
+##
 #
 # clonezilla live {backup full HDD;work with apache web server}
 https://clonezilla.org/clonezilla-usage/clonezilla-live-usage.php
 ##
-#
+##
 #
 # dummy vpn android {port reselection / udp}
 https://f-droid.org/en/packages/net.stargw.fok/
 ##
-#
+##
 #
 # . .{web code}}  Html Editor und batch Eingabekonsole für android.{type .DEBB..HEX..HEX..etc..}
 https://play.google.com/store/apps/details?id=com.qamar.ide.web
 ##
-#
-#
 ##
-## bined -- Hex editor
+#
+# bined -- Hex editor
 https://f-droid.org/packages/org.exbin.bined.editor.android/
-#
-#
+##
 ##
 #
 #####
-#
-#
-# S U S E
-- suse Karlia CE
-DOS Os geeignet als Mrt-Steuerprogramm
-#
-- suse Karlia UbuntuUt linux -ls
-DOS Os durch Ubuntu script und unrealtournament.zip zum read/write von HDD fähig.
-#
-#
 ##
-#
-#####
-Mathematische Formeln zur Eingabe in C++
-#####
-Kernzerschwingungsberechnungen, wie sie für die Berechnung des Rundlaufmodus des M.r.T angewandt werden können.
-#
-##
-#####
-# n o t e s"
-# nandromflash
-##
-# b a s h  coding
-# pit44pitexe {live-flash--ipu}
-#
-#####
-#
 ##
 #
 #
-##
 # :: ####   ±±±±±±±   ####
 # ::+++++####+++++####+++++####++++?::
 ##### terminal #
@@ -373,28 +343,13 @@ Kernzerschwingungsberechnungen, wie sie für die Berechnung des Rundlaufmodus de
 #.;  ####-- . .        #
 #;; -c {clanguage}::
 ;   -------##
-#
-#
-#
-#
-#
-#####
-#
-#
-#####
 ##
-#
-####   nomsche Formel - suse se linux
-####   4-4-0-1 ∆=∆ √π^2+3,19phi+1
-####  . . . ##{pit4romexe-ls}#[36]#
-#####
-#####  ------------ . .
-#
-#####
 ##
 #
 #####
 ##
+##
+#
 #
 #### Resonanztechnik ####
 # c o d e. .{resonanzabgleich}

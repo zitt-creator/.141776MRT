@@ -1,11 +1,11 @@
 ::    ## s u s e. .//kernel/kernel/.start.
-anno{updated last} 0012.0010.026 -- 12:00 sulu. .{;    ;    ##
+anno{updated last} 0018.0010.026 -- 12:00 sulu. .{;    ;    ##
 ##
 ##
 # s u s e [loose hardware cache-recompile operating system]]..  . .
 ##
 ##
-# s u s e  Karlia-ls
+# s u s e  Karlia-ls    ce    ///    2.0
 ##
 ##
 # Z.ITT[47]]
@@ -19,22 +19,27 @@ just execute factory reset on your device to delete suse and kernel data. .
 ##
 ##
 #
+#####
+#
+this project is closed with s u s e Karlia-ls ce  2.0..  . . it is designed for the gaming industry, especially new hardware(handheld devices).
+to get the full code ask someone, who can print it..  . .
+/.
+##
+##
+#
 # n o t e
 ;;;;;    ///.    [47][47][47][47][hubble]..  . .debb..debb..[[..debb())]
 ;;;;;;  ;;;;;
 ##
 ##
 #
-::
-# latest::s u s e  Karlia 1.8-ls
 ;;;;;
 # n o t e
-##
-##
 # universal port for data-traffic{fax-port}::4020.
 ##
 ##
 #
+#####
 ##
 ##
 #
@@ -64,12 +69,10 @@ type break{enter}
 ####
 # ; ; ; . ..  . .
 if you don't want to use suse Karlia, build and create your own suse with the suse ce  script. .
-#  ;;;;; n o t e
-#  ;;;;;
 ##
 ##
 #
-#
+#####
 ##
 ## n o t e
 # Z.ITT -- {ftp -- telefonica^¢--4.1.6.33(zitt apacheone" 10.6.6.6)--. .} Karlia.zip{.txt}. .
@@ -145,14 +148,14 @@ for example{not tested}:
 ##
 #
 # n o t e
-compile s u s e ce on your device for loose{Oem} install, or use telnet script for installing Karlia + eselmail over the developer-network{ibm,apple,microsoft,google. ...}.
-#
-##
-#
-#
-#
+compile s u s e ce on your device for loose{Oem} install, or use telnet script for installing Karlia + eselmail over the developer-network{ibm,apple,microsoft,google. ...(it should be on the other side)}..  . .
 ##
 ##
+#
+#####
+##
+##
+#
 # c o d e == 4-4-0-1())..  . .
 ;;;;;
 ==  0,5+3,19phi=√π^2+3,19phi×0,5rho{+1}
@@ -181,65 +184,50 @@ print ::;
 print
 ::
 ;;;;;
-#
-# 
-#
+##
 ##
 #
-#
-##
 #####
-#
+##
 ##
 #
-#
-##
 s u s e  Karlia  clean {no romzips}. . install script. -->  # ;;# https://github.com/zitt-creator/.141776MRT/blob/main/0010_suseinstallplustelnet_messenger_eselmail.txt
 ##
 ##
 #
 #####
-#
-s u s e  Karlia system - rom {including systemD capable romzips: sati;dice app;python}.{network install}. .
-#
-https://github.com/zitt-creator/.141776MRT/blob/main/((0())suse__karlia_network_install.txt
 ##
 ##
 #
 s u s e  ce script{loose code install from zero on/from local hardware of the s u s e capable device}. . -->
 https://github.com/zitt-creator/.141776MRT/blob/main/suse_ce_code.txt
 ##
+##
 #
-##
-##
 #####
+##
+##
 #
 ;;;;;
 suse ce will need a long time to compile and start the {ipu} on the mainboard of your device.
 ##
+##
 #
-#
+#####
 ##
 ##
+#
 # n o t e
 # tabellenkalkulation. .{excel;office}}
 # table update. .{ipu}
 Hauptrechenzeile: 8+5=7 1xbreak{Enter}. .
-#####
 ##
 ##
 #
 #####
 ##
 ##
-# . .
-# i n s t a l l    s u s e. .
-^T=ca. 3d{3 Tage}
-# Zeit für volle Installation von suse Karlia ca. 3 Tage.
-#
-##
-#
-##
+# n o t e
 commands within the {} mostly ignored, if they are wrong.
 you can type whatever you want instead Zit1 within the {} for your s u s e c-language -- monitor clanguage name and you can change from Zit1 to y o u r clanguage name also later in suse.
 . 2xbreak  //kernel/  1xbreak  //kernel//kernel/  1xbreak  fdisk -V rom  fdisk -V rom  telnet rom  1xbreak  .  2xbreak  telnet rom  telnet -U rom  telnet rom  1xbreak  .  2xbreak  telnet rom  telnet rom  telnet -V rom  telnet rom  telnet -V rom  telnet rom  telnet rom  telnet rom  1xbreak  .  2xbreak  python  python=π÷2    python  python    telnet rom  telnet -V rom  telnet rom  1xbreak  .  2xbreak  python=π÷2    telnet rom  telnet rom  python  python=π÷2    telnet rom  telnet rom  python=π÷2    telnet rom  telnet rom  1xbreak  .  2xbreak  python=π÷2    telnet rom  telnet start telnet  1xbreak  .  2xbreak  telnet rom  telnet -V rom  telnet -V rom  telnet rom  telnet start telnet  1xbreak  .  2xbreak  telnet rom  telnet -U rom  telnet -V rom  telnet -V rom  telnet rom  telnet -V rom  telnet -V rom  telnet rom  telnet rom  telnet -V rom  telnet rom  telnet -V rom  telnet rom  telnet start telnet  1xbreak  .  2xbreak  telnet rom  {yourclanguagemonitorlanguagename}    telnet rom  telnet start telnet  1xbreak  .  1xbreak to verify the print {wait 10 seconds after break}.
@@ -266,7 +254,7 @@ https://www.zotac.com/de/product/mini_pcs/ci620-nano
 #
 # good software from anyone #
 #
-#####
+#
 ##
 ##
 #
@@ -333,7 +321,7 @@ https://f-droid.org/packages/org.exbin.bined.editor.android/
 #
 #####
 ##
-#
+##
 #
 #
 [
@@ -407,7 +395,6 @@ x{+-}0,5×π^2×0,5rho{+-}0,5rho=π{+-}3,19phi+3,19phi{+-}π^2{+-}π{+-}3,19phi�
 ##
 ##
 #####
-#
 ##
 ##
 #
@@ -423,8 +410,8 @@ stiftungen sind per tresorrecht besser in der lage finanzielle wege direkt zu nu
 #
 { die Wahrheit; die ein Jeder erfährt, war und wird immer über den Spiegel vom Sodilur richten; und das Leben in der Zukunft weiterhin, konstant erzwingen{. .
 ##
-#
 ##
+#
 #
 print
 50€ Wette: wer es zuerst schafft eine Kupferantenne etwa 2cm über der materialoberfläche zum spiegeln zu bringen; ohne frequenz, erhält 50€ von zitt.

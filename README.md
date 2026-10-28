@@ -23,6 +23,8 @@ just execute factory reset on your device to delete suse and kernel data. .
 #
 this project is closed with s u s e Karlia-ls ce  2.0..  . . it is designed for the gaming industry, especially new hardware(handheld devices).
 to get the full code ask someone, who can print it..  . .
+the gouvernment did not do their part to control/filter the further way; no more updates from zitt's side of s u s e  Karlia..  . .
+python got compiled together with the always pre-installed version on the local devices..  . .
 /.
 ##
 ##
@@ -155,7 +157,13 @@ Glücksspielsystemgeeignet
 efficient full-reset for most devices..
 ..  . .
 ::
+#
+#####
+#
 föö--4.6//46
+##
+##
+#
 ;;;;;
 ##
 ##
@@ -164,7 +172,6 @@ föö--4.6//46
 ##
 ##
 #
-s u s e  Karlia  clean {no romzips}. . install script. -->  # ;;# https://github.com/zitt-creator/.141776MRT/blob/main/0010_suseinstallplustelnet_messenger_eselmail.txt
 ##
 ##
 #

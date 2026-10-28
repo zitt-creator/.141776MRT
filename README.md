@@ -1,5 +1,5 @@
 ::    ## s u s e. .//kernel/kernel/.start.
-anno{updated last} 0018.0010.026 -- 12:00 sulu. .{;    ;    ##
+anno{updated last} 0028.0010.026 -- 12:00 sulu. .{;    ;    ##
 ##
 ##
 # s u s e [loose hardware cache-recompile operating system]]..  . .
@@ -106,16 +106,6 @@ type break{enter}
 .  . .
 #
 #
-# info
-the telnet messenger, which i named eselmail on my end is usable for the connection of your name/person and your property, that has rom.
-# 
-the origin of eselmail is a real law text, that goes back to the first constitution of germany, anno 1413.
-it gives you the right to "own"(use) a working animal that can deliver post to your gouvernment.
-the working animal is like a digital coin, which closed a gap between the stock market and your id.
-the esel is paid and works at full efficiency and should be immortal as a digital coin.
-if you are correctly registered in your country, eselmail should, even if it is installed just once on one single device, it connects "the money"; your money to your property and name.
-no guarantees, it is a short line of code, that should work anyway for all others on the planet, once it`s online and registered. 
-eselmail is only available from z.itt himself, as long the problem of getting the systemrom to the hdd still exists, but since notepad got upgraded, there is a chance to write an .exe next to the .txt script in the same folder.
 #
 ##
 ##
@@ -160,29 +150,12 @@ compile s u s e ce on your device for loose{Oem} install, or use telnet script f
 ;;;;;
 ==  0,5+3,19phi=√π^2+3,19phi×0,5rho{+1}
 Glücksspielsystemgeeignet
-..  . . y o u will pay your own doctor/shrink.{lapedusa is registered within the mhh stiftung 1..  . .}.
+..  . . y o u will pay your own doctor/shrink.
 #
 efficient full-reset for most devices..
-if it comes to your mind to conquer the lapedusa boss personally with any device, that dials weird; you will receive the direct; totally suish usable answer..
-[{Taler}..  . .[.46mm] lapedusa signature sound(simulated gunshot; .lame created soundfile)..  . .
-the codes should be available at the "bundeskartellamt" with a formal request over the right; official way.
 ..  . .
-./
-#
-. .
-print
 ::
-# a.
-## F1/a./
-# 0047
-print ::;
-## Z.ITT. .{ l a p e d u s a{T€1..,;,3.6}
-{{l a p e d u s a{A.0047 / fF / a. / 0 / AUnterkopf / 0047 / 0 / a. / l a d e s / 0 / 0049 / lades / 0047 / lades / A. / lades / 0. .
-{T}} } . .{m h h  stiftung1:}. .{1.3141}. .{{π=1{}} #
-##
-::
-print
-::
+föö--4.6//46
 ;;;;;
 ##
 ##
